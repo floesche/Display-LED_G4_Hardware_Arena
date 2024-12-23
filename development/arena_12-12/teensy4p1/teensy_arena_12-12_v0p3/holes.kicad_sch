@@ -394,15 +394,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" ""
-			(at 50.8 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 50.8 30.48 0)
 			(effects
@@ -623,15 +614,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" ""
-			(at 60.96 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" ""
 			(at 60.96 30.48 0)
 			(effects
@@ -710,15 +692,6 @@
 			)
 		)
 		(property "DigiKey PN" ""
-			(at 41.91 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC PN" ""
 			(at 41.91 30.48 0)
 			(effects
 				(font
@@ -872,15 +845,6 @@
 			)
 		)
 		(property "DigiKey PN" ""
-			(at 69.85 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC PN" ""
 			(at 69.85 30.48 0)
 			(effects
 				(font

@@ -2649,7 +2649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 195.58 137.16 0)
 			(effects
 				(font
@@ -2659,6 +2659,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 195.58 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 195.58 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 195.58 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 195.58 137.16 0)
 			(effects
 				(font
@@ -2719,15 +2746,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 121.92 340.36 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 121.92 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 121.92 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 121.92 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 121.92 340.36 0)
 			(effects
 				(font
@@ -2892,7 +2947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 55.88 76.2 0)
 			(effects
 				(font
@@ -2902,6 +2957,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 55.88 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 55.88 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 55.88 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 55.88 76.2 0)
 			(effects
 				(font
@@ -3092,7 +3174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 55.88 200.66 0)
 			(effects
 				(font
@@ -3102,6 +3184,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 55.88 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 55.88 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 55.88 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 55.88 200.66 0)
 			(effects
 				(font
@@ -3227,7 +3336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 198.12 262.89 0)
 			(effects
 				(font
@@ -3237,6 +3346,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 198.12 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 198.12 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 198.12 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 198.12 262.89 0)
 			(effects
 				(font
@@ -3362,7 +3498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 76.2 76.2 0)
 			(effects
 				(font
@@ -3372,6 +3508,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 76.2 76.2 0)
 			(effects
 				(font
@@ -3627,7 +3790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 55.88 137.16 0)
 			(effects
 				(font
@@ -3637,6 +3800,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 55.88 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 55.88 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 55.88 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 55.88 137.16 0)
 			(effects
 				(font
@@ -3697,7 +3887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 176.53 325.12 0)
 			(effects
 				(font
@@ -3707,6 +3897,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 176.53 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 176.53 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 176.53 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 176.53 325.12 0)
 			(effects
 				(font
@@ -3832,15 +4049,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 121.92 278.13 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 121.92 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 121.92 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 121.92 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 121.92 278.13 0)
 			(effects
 				(font
@@ -3940,7 +4185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 176.53 77.47 0)
 			(effects
 				(font
@@ -3950,6 +4195,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 176.53 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 176.53 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 176.53 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 176.53 77.47 0)
 			(effects
 				(font
@@ -4400,15 +4672,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 241.3 339.09 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 241.3 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 241.3 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 241.3 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 241.3 339.09 0)
 			(effects
 				(font
@@ -4573,7 +4873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 76.2 262.89 0)
 			(effects
 				(font
@@ -4583,6 +4883,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 76.2 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 76.2 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 76.2 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 76.2 262.89 0)
 			(effects
 				(font
@@ -4643,7 +4970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 195.58 200.66 0)
 			(effects
 				(font
@@ -4653,6 +4980,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 195.58 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 195.58 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 195.58 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 195.58 200.66 0)
 			(effects
 				(font
@@ -4778,7 +5132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 176.53 200.66 0)
 			(effects
 				(font
@@ -4788,6 +5142,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 176.53 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 176.53 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 176.53 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 176.53 200.66 0)
 			(effects
 				(font
@@ -5108,7 +5489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 78.74 200.66 0)
 			(effects
 				(font
@@ -5118,6 +5499,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 78.74 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 78.74 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 78.74 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 78.74 200.66 0)
 			(effects
 				(font
@@ -5568,15 +5976,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 241.3 215.9 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 241.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 241.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 241.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 241.3 215.9 0)
 			(effects
 				(font
@@ -5741,7 +6177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 74.93 387.35 0)
 			(effects
 				(font
@@ -5751,6 +6187,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 74.93 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 74.93 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 74.93 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 74.93 387.35 0)
 			(effects
 				(font
@@ -5811,15 +6274,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 121.92 402.59 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 121.92 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 121.92 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 121.92 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 121.92 402.59 0)
 			(effects
 				(font
@@ -6049,7 +6540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 176.53 137.16 0)
 			(effects
 				(font
@@ -6059,6 +6550,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 176.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 176.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 176.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 176.53 137.16 0)
 			(effects
 				(font
@@ -6184,15 +6702,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 241.3 401.32 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 241.3 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 241.3 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 241.3 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 241.3 401.32 0)
 			(effects
 				(font
@@ -6357,15 +6903,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 121.92 91.44 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 121.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 121.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 121.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 121.92 91.44 0)
 			(effects
 				(font
@@ -6465,7 +7039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 74.93 137.16 0)
 			(effects
 				(font
@@ -6475,6 +7049,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 74.93 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 74.93 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 74.93 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 74.93 137.16 0)
 			(effects
 				(font
@@ -6665,15 +7266,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 241.3 153.67 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 241.3 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 241.3 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 241.3 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 241.3 153.67 0)
 			(effects
 				(font
@@ -6837,7 +7466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 196.85 76.2 0)
 			(effects
 				(font
@@ -6847,6 +7476,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 196.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 196.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 196.85 76.2 0)
 			(effects
 				(font
@@ -7102,7 +7758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 55.88 387.35 0)
 			(effects
 				(font
@@ -7112,6 +7768,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 55.88 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 55.88 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 55.88 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 55.88 387.35 0)
 			(effects
 				(font
@@ -7432,15 +8115,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 121.92 215.9 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 121.92 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 121.92 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 121.92 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 121.92 215.9 0)
 			(effects
 				(font
@@ -7540,7 +8251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 195.58 384.81 0)
 			(effects
 				(font
@@ -7550,6 +8261,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 195.58 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 195.58 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 195.58 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 195.58 384.81 0)
 			(effects
 				(font
@@ -8260,7 +8998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 55.88 262.89 0)
 			(effects
 				(font
@@ -8270,6 +9008,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 55.88 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 55.88 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 55.88 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 55.88 262.89 0)
 			(effects
 				(font
@@ -8330,7 +9095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 121.92 153.67 0)
 			(effects
 				(font
@@ -8339,6 +9104,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 121.92 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 121.92 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 121.92 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 121.92 153.67 0)
 			(effects
 				(font
@@ -8828,7 +9620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 176.53 384.81 0)
 			(effects
 				(font
@@ -8838,6 +9630,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 176.53 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 176.53 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 176.53 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 176.53 384.81 0)
 			(effects
 				(font
@@ -8898,7 +9717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 196.85 325.12 0)
 			(effects
 				(font
@@ -8908,6 +9727,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.85 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 196.85 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 196.85 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 196.85 325.12 0)
 			(effects
 				(font
@@ -9033,15 +9879,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 241.3 91.44 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 241.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 241.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 241.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 241.3 91.44 0)
 			(effects
 				(font
@@ -9401,15 +10275,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 241.3 278.13 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 241.3 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 241.3 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 241.3 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
 			(at 241.3 278.13 0)
 			(effects
 				(font
@@ -9509,7 +10411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 55.88 325.12 0)
 			(effects
 				(font
@@ -9519,6 +10421,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 55.88 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 55.88 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 55.88 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 55.88 325.12 0)
 			(effects
 				(font
@@ -9709,7 +10638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 176.53 264.16 0)
 			(effects
 				(font
@@ -9719,6 +10648,33 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 176.53 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 176.53 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 176.53 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
 			(at 176.53 264.16 0)
 			(effects
 				(font
@@ -9844,7 +10800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 77.47 323.85 0)
 			(effects
 				(font
@@ -9854,6 +10810,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 77.47 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 77.47 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 77.47 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
 			(at 77.47 323.85 0)
 			(effects
 				(font

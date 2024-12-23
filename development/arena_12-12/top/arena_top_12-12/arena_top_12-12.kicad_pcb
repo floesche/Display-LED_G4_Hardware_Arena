@@ -307,7 +307,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -327,6 +327,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "078d7414-30af-417f-b594-430e60fdf408")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5e1ed2d-d19f-43eb-8ca7-3987436d5814")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f0afb11-2565-4c11-8e61-b50bede2796a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2044,7 +2083,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 150)
 			(layer "F.Fab")
 			(hide yes)
@@ -2064,6 +2103,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "592af925-88aa-4040-af34-b61021fb46d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8103c22d-1fa8-441f-b9d9-28a9c8c7d2eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c24b3d3f-6fd4-49e1-9c18-8d8ee19a8f70")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2280,11 +2358,50 @@
 				)
 			)
 		)
+		(property "DigiKey PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65183bcd-451d-4139-bb0f-18b161d445d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "128cfeed-88e9-4065-8736-6d0bb9bf00f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b1ca0fc-8279-4007-b5c4-80a64a1bc6d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/24a22302-295f-4a79-8162-dc1243f756aa/6371152a-6996-4c01-9b4c-95c050be178c")
 		(sheetname "Ground Holes")
 		(sheetfile "holes.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 4.5 0)
@@ -2369,7 +2486,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/pj-063ah-same+sky-106234056"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2389,6 +2506,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "CP-063AH-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b76739f-ee70-4e5a-9956-b35fc2348819")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C22434582"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91726d49-50e2-412d-9c67-79cd1dca6090")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "PJ-063AH"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a54c569-5a7b-4a68-811c-d3a1defc56e3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2533,7 +2689,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 -120)
 			(layer "F.Fab")
 			(hide yes)
@@ -2553,6 +2709,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6b18301-3e31-45d4-aff1-ef1d0d658acf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf7cc8d4-67c6-4b97-9269-25f8a0a56407")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d9b31a1-bca7-4e4d-b54a-2dd43a496efd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4270,7 +4465,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4290,6 +4485,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9834f5a7-1abf-4ac7-9260-4390df9bc5d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca21c94f-938a-4713-bc1b-112393cfb316")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9883ebd9-2106-4ddf-816d-30556f84ec89")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4482,7 +4716,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 60)
 			(layer "F.Fab")
 			(hide yes)
@@ -4502,6 +4736,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39b9cc1c-e17b-4c29-ad4a-524c0c189908")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a13ba6be-fbbc-4b96-8770-d7342313bc10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20668501-2aa7-4842-8f44-e191d7834545")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4692,7 +4965,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 -150)
 			(layer "F.Fab")
 			(hide yes)
@@ -4712,6 +4985,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b62eb64-2b35-4821-abef-96d1d7645992")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0717cb6-ee4c-4462-9684-7c120b048847")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1079ceb8-bd61-4bff-8101-5373cd799c31")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6429,7 +6741,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 120)
 			(layer "F.Fab")
 			(hide yes)
@@ -6449,6 +6761,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb5620d3-ccb9-49ab-af83-53092bc0a8b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b4771a2-8d15-43e7-9d72-8c7dd1adbc7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94c45c4e-fb1a-4e7c-86ad-e20b74008425")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6639,7 +6990,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6659,6 +7010,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "699e93bc-3456-451b-ac01-a2151649528d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52fbb7a7-1efe-4ef1-8106-1c29c422c425")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f642dbc4-e008-4e30-9946-d5e8fe71f606")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8374,7 +8764,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 150)
 			(layer "F.Fab")
 			(hide yes)
@@ -8394,6 +8784,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39b869a1-1c96-42c5-9247-33461320c637")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4432580-5576-4546-a976-0022b9cca608")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "daadf418-b524-4aa4-8c06-31173dd526e3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10109,7 +10538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10129,6 +10558,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09a8a4e3-f509-432c-860f-89fc4e694e54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbd1040c-b7b5-4ee6-a986-eaf6a57d6701")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97117867-e84d-45c3-88bd-434109c73388")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11870,11 +12338,50 @@
 				)
 			)
 		)
+		(property "DigiKey PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69cae5fe-c819-4873-8f53-dacbac05e4ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d84449b5-3467-48cc-9156-4925a1c9bf69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c66b944-b371-4c51-908f-60cf6af592ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/24a22302-295f-4a79-8162-dc1243f756aa/5cb430b1-0e6a-4170-90cc-b431d28c9206")
 		(sheetname "Ground Holes")
 		(sheetfile "holes.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 4.5 0)
@@ -11986,11 +12493,50 @@
 				)
 			)
 		)
+		(property "DigiKey PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a5c677b-9a8a-496d-b22e-f6498e42342f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6a97020-ab69-45f6-b657-03d70aafaec7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a36e5c25-d0d2-4d46-b4f7-9e1a8089d949")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/24a22302-295f-4a79-8162-dc1243f756aa/f21c68d1-fde2-4933-87ff-4157f7c0dbe8")
 		(sheetname "Ground Holes")
 		(sheetfile "holes.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 4.5 0)
@@ -12078,7 +12624,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 30)
 			(layer "F.Fab")
 			(hide yes)
@@ -12098,6 +12644,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d42e1bb3-3851-47fe-a125-7c4427e955d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b6a6d95-3e3d-49d9-929e-ffcfe87c1632")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dac47fcf-7ab8-493f-a53b-76537828a62e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12290,7 +12875,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 30)
 			(layer "F.Fab")
 			(hide yes)
@@ -12310,6 +12895,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0bf3aab2-b3f9-4c96-9a93-f641f7e9c767")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d80bccff-c2ff-4b96-a7e2-76e79aba6037")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad0201d6-90f4-4d5f-a998-e46e09c6d5b8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12502,7 +13126,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12522,6 +13146,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2db3ce0-9d19-4c91-9581-4af0c6970e0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9239df83-fe4e-430c-8e7a-e41391dfba4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76224bcc-8f88-4bcc-8107-a119cca2b496")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12714,7 +13377,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 120)
 			(layer "F.Fab")
 			(hide yes)
@@ -12734,6 +13397,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f208fe91-7504-44e6-aafc-9ae768f91a1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2622751-ae1b-4a28-9067-74445c2fdd42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "894e7010-fceb-4b7f-9279-f7d3623f9460")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12924,7 +13626,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 -60)
 			(layer "F.Fab")
 			(hide yes)
@@ -12944,6 +13646,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8a2e3d7-ab39-45d2-b0be-d115cbe00d81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64a732f7-cbca-4a61-bf6a-6980e9e84682")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b88976af-ceab-4abf-a165-6ffa9bf68b28")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14685,11 +15426,50 @@
 				)
 			)
 		)
+		(property "DigiKey PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0017280-24f9-46d9-81db-fa2d90001bb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a767c880-b431-4d39-a7b2-9a33efb3bca9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad88708b-5c32-4f4d-86d4-c258873a6108")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/24a22302-295f-4a79-8162-dc1243f756aa/2a097cd6-846a-437f-8cdc-fc2c0705c24d")
 		(sheetname "Ground Holes")
 		(sheetfile "holes.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 4.5 0)
@@ -14775,7 +15555,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 60)
 			(layer "F.Fab")
 			(hide yes)
@@ -14795,6 +15575,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bf758d0-e736-4475-8294-b4c5a72fdc7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33b0a8fd-e419-4db4-8cf9-690faac94747")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "951fe4f1-9f01-4fb2-a8c0-edb4327bfe92")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16510,7 +17329,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 30)
 			(layer "F.Fab")
 			(hide yes)
@@ -16530,6 +17349,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "179988a1-85d9-4247-a589-e3aded49818a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71d55880-6ca8-48ca-b77f-ffa8495c14d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99d76c04-e6e9-45fa-ba89-5b19bb573966")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18245,7 +19103,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 120)
 			(layer "F.Fab")
 			(hide yes)
@@ -18265,6 +19123,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1699725-6a9e-40ce-ad77-d04fe559252c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85efcd5e-e8af-4885-b262-a804be0fd8b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c3ad46c-38d8-49f6-9fd7-024d339a4199")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19982,7 +20879,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 60)
 			(layer "F.Fab")
 			(hide yes)
@@ -20002,6 +20899,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb963716-d185-4934-962d-cc0ebfdc6abe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03c31c93-4a36-4138-9284-682af00de563")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e5ed3a0-1b9d-4c61-a327-4d7edcb651f9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20194,7 +21130,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -20214,6 +21150,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd63ea00-cd5b-4139-bd28-4faf2e8bfc4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f38c645d-01b5-4d84-a874-19914ca068f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a99be4c-7b20-4a28-86d7-b3caeddef424")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20406,7 +21381,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 150)
 			(layer "F.Fab")
 			(hide yes)
@@ -20426,6 +21401,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be8da1a7-f54d-41fd-bd9e-d0349923a3a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56ac5a5a-2ec7-421a-8e6e-c34fefb58f29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3bd52c06-1a59-40b8-af8b-bb5d52a5897b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20618,7 +21632,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403201122_Chinocera-HGC1210R5107M160NSVK_C7432790.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20638,6 +21652,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af5e3a77-825a-4783-9c20-2b070eacfa66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C7432790"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e017967-9cd0-4dda-a21e-485c3e1c63a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HGC1210R5107M160NSVK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae5a1856-2ae2-4784-8194-a0151a245bb1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20828,7 +21881,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 -30)
 			(layer "F.Fab")
 			(hide yes)
@@ -20848,6 +21901,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a20efe0b-b6d9-4e6e-9a51-62ac3c574d46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b41b048-85e4-4724-b224-2eedeace1edf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc3c11fa-4351-4c0c-875a-debf114f93e4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22564,7 +23656,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://octopart.com/datasheet/16yxf100mefc6.3x11-rubycon-19941780"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22584,6 +23676,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey PN" "1189-1856-ND"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e18aaeb-cef8-4a3b-92c3-3749655be643")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" " C338173"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c93bf512-5303-4b3e-8090-f51340cc1207")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "16YXF100MEFC6.3X11"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97549cb2-b708-44bb-a193-00e83386f0b0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24301,7 +25432,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -24322,6 +25453,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0cac63a2-dc93-4d12-b1e5-4e4fa52a44de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f1429c82-8256-4bcf-b6e4-03e55ef1183b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8a789521-3404-4b06-ad33-1c65301f7d07")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -24587,7 +25760,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -120)
 			(layer "B.Fab")
 			(hide yes)
@@ -24608,6 +25781,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5cca2c8a-5d3e-450d-8875-b97cbf45653a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "227cebbc-43df-43e9-9cbd-8d83da8cec9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 60)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2f589bbe-db56-4bb1-887d-b512d65d41d7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -24875,7 +26090,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -90)
 			(layer "B.Fab")
 			(hide yes)
@@ -24896,6 +26111,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a4f84eae-848e-4a9f-9b39-66ac7da10f1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ebbb9faa-96e1-4dd3-ae00-ce45514daad9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "38f0f611-33df-4c6b-b1f6-bc9ac3579e0d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25161,7 +26418,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -30)
 			(layer "B.Fab")
 			(hide yes)
@@ -25182,6 +26439,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6d164213-c3b2-4427-af3e-4e2f4c783690")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a2452d09-0b68-4aff-9bb1-dc961461f991")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 -30)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1a1ac822-2550-4456-9eda-e23629981815")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25449,7 +26748,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -150)
 			(layer "B.Fab")
 			(hide yes)
@@ -25470,6 +26769,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "93001c08-97f6-4080-85f6-154c2574e430")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7f8a91cd-0dae-4e67-addd-f693b35b6eb6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 30)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0b208e02-b724-4991-a302-8ea227fa75ce")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -25737,7 +27078,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -150)
 			(layer "B.Fab")
 			(hide yes)
@@ -25758,6 +27099,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1bdc343c-195e-478f-9486-962b42169015")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "10246817-1b9b-4044-aa3a-e66adf276392")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 -150)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2e7bd4e6-9692-4feb-904f-ffbc6c6fab9e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26025,7 +27408,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -26046,6 +27429,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b944226c-4e46-4121-a812-c110a6db4586")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "49239cb6-d078-4b45-8704-159d1086e4a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d135134a-02bd-452c-9cf7-b47bfb817d13")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26311,7 +27736,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -90)
 			(layer "B.Fab")
 			(hide yes)
@@ -26332,6 +27757,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "90f42634-a95a-42a6-8e42-bf161cbdeba5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "21b2d016-77b4-4f4c-8475-5348a8cdfdcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ea054c74-2447-4df4-9b2f-d9fcf0861776")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26597,7 +28064,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -120)
 			(layer "B.Fab")
 			(hide yes)
@@ -26618,6 +28085,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "310610e5-a17f-42a6-827f-ad1a1c71a2da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ffa02b40-1ca2-4933-a1f1-d0cce36a4b43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 -120)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d44bb08-0008-4a05-8575-ad4e05cf1b7e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -26885,7 +28394,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -60)
 			(layer "B.Fab")
 			(hide yes)
@@ -26906,6 +28415,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9fc0e99-2a1a-4554-b8ef-5edd141aec64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c30401fb-6e17-40b2-be97-e23d3cf1561d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 -60)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db42843f-f3a2-4b90-a222-a0faf2eddd43")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -27173,7 +28724,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -60)
 			(layer "B.Fab")
 			(hide yes)
@@ -27194,6 +28745,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2f30818d-91e6-4382-8384-4f5c95db453c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e6e119a-5e88-4ab6-8122-6629920bb68d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 120)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a97b0411-d635-484c-807f-b8c7ef5a847f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -27461,7 +29054,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2311221544_Megastar-ZX-PZ2-54-1-15PZZ_C7501269.pdf"
 			(at 0 0 -30)
 			(layer "B.Fab")
 			(hide yes)
@@ -27482,6 +29075,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey PN" "S1011EC-40-ND"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc5d6611-0f25-4131-bde4-7bf8a1692f61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Part #" "C7501269"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b2d1ffcc-2c2e-4f0b-bf1c-0ccfcb2be7df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "PRPC040SAAN-RC"
+			(at 0 0 150)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "71df92b7-41d1-4d00-85da-beff52702e03")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -33812,6 +35447,32 @@
 		(layer "Edge.Cuts")
 		(uuid "b6ef0125-2dc4-408a-81ce-53aec1d09700")
 	)
+	(gr_text "https://reiserlab.github.io/Modular-LED-Display/"
+		(at 67.691 147.066 90)
+		(layer "B.SilkS")
+		(uuid "fb615b43-0f55-4350-9955-f2e6a5d1cb70")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify right bottom mirror)
+		)
+	)
+	(gr_text "2024-12-23"
+		(at 71.501 194.691 90)
+		(layer "F.SilkS")
+		(uuid "1589676e-2101-47ed-948d-a93b62ea2aff")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "5V\n"
 		(at 96.781875 84.935309 180)
 		(layer "F.SilkS")
@@ -33825,7 +35486,20 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Teensy 12-12 Arena-Top V0.1 R1\n"
+	(gr_text "https://reiserlab.github.io/Modular-LED-Display/"
+		(at 67.564 147.193 90)
+		(layer "F.SilkS")
+		(uuid "af00ff01-8ef4-4806-9f6c-a131f7a0c6e5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "12-12 Teensy G4.1 Arena Top v0.3.3\n"
 		(at 67.4116 177.5968 90)
 		(layer "F.SilkS")
 		(uuid "d96a7d4d-21ba-461b-a1b0-b6bef1023b32")

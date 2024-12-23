@@ -6552,7 +6552,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 146.05 0)
 			(effects
 				(font
@@ -6561,7 +6561,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 146.05 0)
 			(effects
 				(font
@@ -6646,7 +6646,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 181.61 0)
 			(effects
 				(font
@@ -6655,7 +6655,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 181.61 0)
 			(effects
 				(font
@@ -6740,7 +6740,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 110.49 0)
 			(effects
 				(font
@@ -6749,7 +6749,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 110.49 0)
 			(effects
 				(font
@@ -6837,7 +6837,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C145956"
+		(property "MPN" "SM04B-SRSS-TB"
 			(at 113.03 146.05 0)
 			(effects
 				(font
@@ -6846,7 +6846,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM04B-SRSS-TB"
+		(property "LCSC Part #" "C145956"
 			(at 113.03 146.05 0)
 			(effects
 				(font
@@ -6937,7 +6937,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 40.64 0)
 			(effects
 				(font
@@ -6946,7 +6946,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 40.64 0)
 			(effects
 				(font
@@ -7031,7 +7031,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 59.69 0)
 			(effects
 				(font
@@ -7040,7 +7040,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 59.69 0)
 			(effects
 				(font
@@ -7191,7 +7191,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 217.17 0)
 			(effects
 				(font
@@ -7200,7 +7200,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 217.17 0)
 			(effects
 				(font
@@ -7285,7 +7285,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 120.65 0)
 			(effects
 				(font
@@ -7294,7 +7294,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 120.65 0)
 			(effects
 				(font
@@ -7379,7 +7379,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 26.67 0)
 			(effects
 				(font
@@ -7388,7 +7388,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 26.67 0)
 			(effects
 				(font
@@ -7474,7 +7474,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C10429"
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 171.45 168.91 0)
 			(effects
 				(font
@@ -7483,7 +7483,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC2G17DBVR"
+		(property "LCSC Part #" "C10429"
 			(at 171.45 168.91 0)
 			(effects
 				(font
@@ -7573,15 +7573,6 @@
 			)
 		)
 		(property "DigiKey PN" ""
-			(at 102.87 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC PN" ""
 			(at 102.87 86.36 0)
 			(effects
 				(font
@@ -7813,7 +7804,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 130.81 0)
 			(effects
 				(font
@@ -7822,7 +7813,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 130.81 0)
 			(effects
 				(font
@@ -7907,7 +7898,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 166.37 0)
 			(effects
 				(font
@@ -7916,7 +7907,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 166.37 0)
 			(effects
 				(font
@@ -8001,7 +7992,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 31.75 0)
 			(effects
 				(font
@@ -8010,7 +8001,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 31.75 0)
 			(effects
 				(font
@@ -8095,7 +8086,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 156.21 0)
 			(effects
 				(font
@@ -8104,7 +8095,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 156.21 0)
 			(effects
 				(font
@@ -8192,7 +8183,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C1525"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 154.94 195.58 0)
 			(effects
 				(font
@@ -8201,7 +8192,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
+		(property "LCSC Part #" "C1525"
 			(at 154.94 195.58 0)
 			(effects
 				(font
@@ -8286,7 +8277,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 74.93 0)
 			(effects
 				(font
@@ -8295,7 +8286,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 74.93 0)
 			(effects
 				(font
@@ -8446,7 +8437,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 171.45 0)
 			(effects
 				(font
@@ -8455,7 +8446,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 171.45 0)
 			(effects
 				(font
@@ -8540,7 +8531,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 90.17 0)
 			(effects
 				(font
@@ -8549,7 +8540,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 90.17 0)
 			(effects
 				(font
@@ -8634,7 +8625,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 140.97 0)
 			(effects
 				(font
@@ -8643,7 +8634,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 140.97 0)
 			(effects
 				(font
@@ -8794,7 +8785,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 196.85 0)
 			(effects
 				(font
@@ -8803,7 +8794,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 196.85 0)
 			(effects
 				(font
@@ -8888,7 +8879,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 186.69 0)
 			(effects
 				(font
@@ -8897,7 +8888,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 186.69 0)
 			(effects
 				(font
@@ -9052,7 +9043,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C145956"
+		(property "MPN" "SM04B-SRSS-TB"
 			(at 57.15 146.05 0)
 			(effects
 				(font
@@ -9061,7 +9052,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM04B-SRSS-TB"
+		(property "LCSC Part #" "C145956"
 			(at 57.15 146.05 0)
 			(effects
 				(font
@@ -9152,7 +9143,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 80.01 0)
 			(effects
 				(font
@@ -9161,7 +9152,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 80.01 0)
 			(effects
 				(font
@@ -9378,7 +9369,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 45.72 0)
 			(effects
 				(font
@@ -9387,7 +9378,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 45.72 0)
 			(effects
 				(font
@@ -9472,7 +9463,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 161.29 0)
 			(effects
 				(font
@@ -9481,7 +9472,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 161.29 0)
 			(effects
 				(font
@@ -9566,7 +9557,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 212.09 0)
 			(effects
 				(font
@@ -9575,7 +9566,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 212.09 0)
 			(effects
 				(font
@@ -9660,7 +9651,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 69.85 0)
 			(effects
 				(font
@@ -9669,7 +9660,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 69.85 0)
 			(effects
 				(font
@@ -9757,7 +9748,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C10429"
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 172.72 200.66 0)
 			(effects
 				(font
@@ -9766,7 +9757,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC2G17DBVR"
+		(property "LCSC Part #" "C10429"
 			(at 172.72 200.66 0)
 			(effects
 				(font
@@ -9929,7 +9920,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 191.77 0)
 			(effects
 				(font
@@ -9938,7 +9929,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 191.77 0)
 			(effects
 				(font
@@ -10023,7 +10014,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 105.41 0)
 			(effects
 				(font
@@ -10032,7 +10023,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 105.41 0)
 			(effects
 				(font
@@ -10117,7 +10108,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 176.53 0)
 			(effects
 				(font
@@ -10126,7 +10117,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 176.53 0)
 			(effects
 				(font
@@ -10211,7 +10202,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 54.61 0)
 			(effects
 				(font
@@ -10220,7 +10211,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 54.61 0)
 			(effects
 				(font
@@ -10305,7 +10296,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 201.93 0)
 			(effects
 				(font
@@ -10314,7 +10305,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 201.93 0)
 			(effects
 				(font
@@ -10399,7 +10390,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 125.73 0)
 			(effects
 				(font
@@ -10408,7 +10399,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 125.73 0)
 			(effects
 				(font
@@ -10494,7 +10485,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C10429"
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 171.45 148.59 0)
 			(effects
 				(font
@@ -10503,7 +10494,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC2G17DBVR"
+		(property "LCSC Part #" "C10429"
 			(at 171.45 148.59 0)
 			(effects
 				(font
@@ -10666,7 +10657,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 115.57 0)
 			(effects
 				(font
@@ -10675,7 +10666,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 115.57 0)
 			(effects
 				(font
@@ -10760,7 +10751,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 95.25 0)
 			(effects
 				(font
@@ -10769,7 +10760,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 95.25 0)
 			(effects
 				(font
@@ -10919,7 +10910,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 100.33 0)
 			(effects
 				(font
@@ -10928,7 +10919,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 100.33 0)
 			(effects
 				(font
@@ -11079,7 +11070,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 85.09 0)
 			(effects
 				(font
@@ -11088,7 +11079,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 85.09 0)
 			(effects
 				(font
@@ -11173,7 +11164,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 64.77 0)
 			(effects
 				(font
@@ -11182,7 +11173,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 64.77 0)
 			(effects
 				(font
@@ -11267,7 +11258,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 135.89 0)
 			(effects
 				(font
@@ -11276,7 +11267,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 135.89 0)
 			(effects
 				(font
@@ -11428,7 +11419,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C25105"
+		(property "MPN" "0402WGF330JTCE"
 			(at 255.27 151.13 0)
 			(effects
 				(font
@@ -11437,7 +11428,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF330JTCE"
+		(property "LCSC Part #" "C25105"
 			(at 255.27 151.13 0)
 			(effects
 				(font

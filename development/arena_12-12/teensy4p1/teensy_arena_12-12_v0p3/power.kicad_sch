@@ -1069,7 +1069,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C2928097"
+		(property "MPN" "PJ-063AH"
 			(at 104.14 45.72 0)
 			(effects
 				(font
@@ -1078,7 +1078,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PJ-063AH"
+		(property "LCSC Part #" "C2928097"
 			(at 104.14 45.72 0)
 			(effects
 				(font
@@ -1164,7 +1164,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C2798743"
+		(property "MPN" "L102021ML04Q"
 			(at 71.12 45.72 0)
 			(effects
 				(font
@@ -1173,7 +1173,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "L102021ML04Q"
+		(property "LCSC Part #" "C2798743"
 			(at 71.12 45.72 0)
 			(effects
 				(font
@@ -1594,7 +1594,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C2928097"
+		(property "MPN" "PJ-063AH"
 			(at 104.14 82.55 0)
 			(effects
 				(font
@@ -1603,7 +1603,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PJ-063AH"
+		(property "LCSC Part #" "C2928097"
 			(at 104.14 82.55 0)
 			(effects
 				(font
