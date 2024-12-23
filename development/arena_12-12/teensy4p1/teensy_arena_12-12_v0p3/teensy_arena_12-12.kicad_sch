@@ -171,7 +171,7 @@
 		(instances
 			(project "teensy_arena_12-12"
 				(path "/a2511654-3a17-43f1-8b9e-c45e375533dc"
-					(page "6")
+					(page "5")
 				)
 			)
 		)
@@ -219,7 +219,7 @@
 		(instances
 			(project "teensy_arena_12-12"
 				(path "/a2511654-3a17-43f1-8b9e-c45e375533dc"
-					(page "5")
+					(page "4")
 				)
 			)
 		)
