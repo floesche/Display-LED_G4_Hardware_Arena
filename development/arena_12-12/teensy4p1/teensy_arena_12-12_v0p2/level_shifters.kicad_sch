@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "d894d059-e435-4d57-811e-6bb474e952c8")
 	(paper "User" 762 533.4)
+	(title_block
+		(title "12-12 Teensy G4.1 Arena Modular LED Display")
+		(date "2024-12-23")
+		(rev "v0.3")
+		(company "IORodeo for Reiserlab @ Janelia")
+	)
 	(lib_symbols
 		(symbol "74xGxx:74LVC1G17"
 			(exclude_from_sim no)
@@ -14870,7 +14876,7 @@
 		(at 362.204 20.574 0)
 		(effects
 			(font
-				(size 3.81 3.81)
+				(size 5.08 5.08)
 				(thickness 0.508)
 				(bold yes)
 			)
@@ -17841,7 +17847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 594.36 205.74 0)
 			(effects
 				(font
@@ -17851,6 +17857,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 612.14 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 612.14 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 612.14 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 612.14 231.14 0)
 			(effects
 				(font
@@ -18031,7 +18064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 252.73 232.41 0)
 			(effects
 				(font
@@ -18041,6 +18074,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 252.73 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 252.73 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 252.73 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 252.73 232.41 0)
 			(effects
 				(font
@@ -18231,7 +18291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 335.28 278.13 0)
 			(effects
 				(font
@@ -18241,6 +18301,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 335.28 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 335.28 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 335.28 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 335.28 278.13 0)
 			(effects
 				(font
@@ -18496,7 +18583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 318.77 67.31 0)
 			(effects
 				(font
@@ -18506,6 +18593,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 318.77 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 318.77 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 318.77 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 318.77 67.31 0)
 			(effects
 				(font
@@ -18696,7 +18810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 608.33 358.14 0)
 			(effects
 				(font
@@ -18706,6 +18820,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 608.33 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 608.33 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 608.33 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 608.33 358.14 0)
 			(effects
 				(font
@@ -18981,6 +19122,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 443.23 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 443.23 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 443.23 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "b539e9f9-6bf2-4c19-91fc-c8273d06df63")
 		)
@@ -19044,7 +19212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 140.97 360.68 0)
 			(effects
 				(font
@@ -19054,6 +19222,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 140.97 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 140.97 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 140.97 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 140.97 360.68 0)
 			(effects
 				(font
@@ -19179,7 +19374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 468.63 205.74 0)
 			(effects
 				(font
@@ -19189,6 +19384,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 468.63 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 468.63 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 468.63 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 468.63 205.74 0)
 			(effects
 				(font
@@ -19248,7 +19470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 293.37 360.68 0)
 			(effects
 				(font
@@ -19258,6 +19480,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 293.37 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 293.37 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 293.37 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 293.37 360.68 0)
 			(effects
 				(font
@@ -19318,7 +19567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 388.62 278.13 0)
 			(effects
 				(font
@@ -19328,6 +19577,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 388.62 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 388.62 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 388.62 278.13 0)
 			(effects
 				(font
@@ -19387,7 +19663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 247.65 67.31 0)
 			(effects
 				(font
@@ -19397,6 +19673,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 247.65 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 247.65 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 247.65 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 247.65 67.31 0)
 			(effects
 				(font
@@ -19456,7 +19759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 288.29 360.68 0)
 			(effects
 				(font
@@ -19466,6 +19769,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 288.29 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 288.29 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 288.29 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 288.29 360.68 0)
 			(effects
 				(font
@@ -19525,7 +19855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 115.57 205.74 0)
 			(effects
 				(font
@@ -19535,6 +19865,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 115.57 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 115.57 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 115.57 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 115.57 205.74 0)
 			(effects
 				(font
@@ -19594,7 +19951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 433.07 205.74 0)
 			(effects
 				(font
@@ -19604,6 +19961,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 433.07 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 433.07 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 433.07 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 433.07 205.74 0)
 			(effects
 				(font
@@ -19664,7 +20048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 284.48 95.25 0)
 			(effects
 				(font
@@ -19674,6 +20058,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 284.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 284.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 284.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 284.48 95.25 0)
 			(effects
 				(font
@@ -19733,7 +20144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 618.49 203.2 0)
 			(effects
 				(font
@@ -19743,6 +20154,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 618.49 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 618.49 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 618.49 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 618.49 203.2 0)
 			(effects
 				(font
@@ -19932,7 +20370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 278.13 205.74 0)
 			(effects
 				(font
@@ -19942,6 +20380,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 278.13 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 278.13 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 278.13 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 278.13 205.74 0)
 			(effects
 				(font
@@ -20019,6 +20484,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 621.03 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 621.03 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 621.03 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579af9")
 		)
@@ -20083,7 +20575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 403.86 233.68 0)
 			(effects
 				(font
@@ -20093,6 +20585,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 403.86 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 403.86 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 403.86 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 403.86 233.68 0)
 			(effects
 				(font
@@ -20415,7 +20934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 594.36 360.68 0)
 			(effects
 				(font
@@ -20425,6 +20944,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 612.14 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 612.14 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 612.14 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 612.14 386.08 0)
 			(effects
 				(font
@@ -20538,7 +21084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 453.39 205.74 0)
 			(effects
 				(font
@@ -20548,6 +21094,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 453.39 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 453.39 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 453.39 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 453.39 205.74 0)
 			(effects
 				(font
@@ -20617,6 +21190,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 182.88 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 182.88 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 182.88 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 182.88 283.21 0)
 			(effects
 				(font
@@ -20819,7 +21419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 298.45 205.74 0)
 			(effects
 				(font
@@ -20829,6 +21429,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 298.45 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 298.45 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 298.45 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 298.45 205.74 0)
 			(effects
 				(font
@@ -20906,6 +21533,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 259.08 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 259.08 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 259.08 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc00")
 		)
@@ -20969,7 +21623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 458.47 360.68 0)
 			(effects
 				(font
@@ -20979,6 +21633,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 458.47 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 458.47 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 458.47 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 458.47 360.68 0)
 			(effects
 				(font
@@ -21103,7 +21784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 135.89 205.74 0)
 			(effects
 				(font
@@ -21113,6 +21794,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 135.89 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 135.89 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 135.89 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 135.89 205.74 0)
 			(effects
 				(font
@@ -21248,6 +21956,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 182.88 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 182.88 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 182.88 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 182.88 438.15 0)
 			(effects
 				(font
@@ -21451,7 +22186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 303.53 205.74 0)
 			(effects
 				(font
@@ -21461,6 +22196,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 303.53 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 303.53 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 303.53 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 303.53 205.74 0)
 			(effects
 				(font
@@ -21530,6 +22292,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 133.35 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 133.35 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 133.35 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 133.35 430.53 0)
 			(effects
 				(font
@@ -21611,6 +22400,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 232.41 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 232.41 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 232.41 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 232.41 283.21 0)
 			(effects
 				(font
@@ -21813,7 +22629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 91.44 388.62 0)
 			(effects
 				(font
@@ -21823,6 +22639,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 91.44 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 91.44 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 91.44 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 91.44 388.62 0)
 			(effects
 				(font
@@ -21892,6 +22735,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 603.25 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 603.25 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 603.25 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 603.25 430.53 0)
 			(effects
 				(font
@@ -21973,6 +22843,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 295.91 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 295.91 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 295.91 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 295.91 430.53 0)
 			(effects
 				(font
@@ -22194,6 +23091,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 660.4 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 660.4 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 660.4 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc03")
 		)
@@ -22257,7 +23181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 704.85 436.88 0)
 			(effects
 				(font
@@ -22267,6 +23191,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 704.85 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 704.85 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 704.85 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 704.85 436.88 0)
 			(effects
 				(font
@@ -22326,7 +23277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 328.93 67.31 0)
 			(effects
 				(font
@@ -22336,6 +23287,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 328.93 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 328.93 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 328.93 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 328.93 67.31 0)
 			(effects
 				(font
@@ -22395,7 +23373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 434.34 363.22 0)
 			(effects
 				(font
@@ -22405,6 +23383,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 452.12 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 452.12 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 452.12 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 452.12 388.62 0)
 			(effects
 				(font
@@ -22583,7 +23588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 95.25 67.31 0)
 			(effects
 				(font
@@ -22593,6 +23598,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 95.25 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 95.25 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 95.25 67.31 0)
 			(effects
 				(font
@@ -22662,6 +23694,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 69.85 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 69.85 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 69.85 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 69.85 438.15 0)
 			(effects
 				(font
@@ -22743,6 +23802,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 557.53 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 557.53 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 557.53 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 557.53 438.15 0)
 			(effects
 				(font
@@ -22898,6 +23984,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 621.03 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 621.03 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 621.03 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc04")
 		)
@@ -23026,7 +24139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 115.57 360.68 0)
 			(effects
 				(font
@@ -23036,6 +24149,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 115.57 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 115.57 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 115.57 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 115.57 360.68 0)
 			(effects
 				(font
@@ -23293,7 +24433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 388.62 433.07 0)
 			(effects
 				(font
@@ -23303,6 +24443,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 388.62 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 388.62 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 388.62 433.07 0)
 			(effects
 				(font
@@ -23362,7 +24529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 161.29 67.31 0)
 			(effects
 				(font
@@ -23372,6 +24539,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 161.29 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 161.29 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 161.29 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 161.29 67.31 0)
 			(effects
 				(font
@@ -23565,7 +24759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 144.78 140.97 0)
 			(effects
 				(font
@@ -23575,6 +24769,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 144.78 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 144.78 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 144.78 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 144.78 140.97 0)
 			(effects
 				(font
@@ -23644,6 +24865,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 314.96 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 314.96 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 314.96 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 314.96 275.59 0)
 			(effects
 				(font
@@ -23845,7 +25093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 68.58 69.85 0)
 			(effects
 				(font
@@ -23855,6 +25103,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 86.36 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 86.36 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 86.36 95.25 0)
 			(effects
 				(font
@@ -23968,7 +25243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 453.39 360.68 0)
 			(effects
 				(font
@@ -23978,6 +25253,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 453.39 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 453.39 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 453.39 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 453.39 360.68 0)
 			(effects
 				(font
@@ -24037,7 +25339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 458.47 205.74 0)
 			(effects
 				(font
@@ -24047,6 +25349,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 458.47 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 458.47 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 458.47 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 458.47 205.74 0)
 			(effects
 				(font
@@ -24172,7 +25501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 273.05 360.68 0)
 			(effects
 				(font
@@ -24182,6 +25511,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 273.05 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 273.05 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 273.05 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 273.05 360.68 0)
 			(effects
 				(font
@@ -24241,7 +25597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 344.17 67.31 0)
 			(effects
 				(font
@@ -24251,6 +25607,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 344.17 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 344.17 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 344.17 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 344.17 67.31 0)
 			(effects
 				(font
@@ -24393,6 +25776,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 397.51 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 397.51 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 397.51 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579afc")
 		)
@@ -24466,6 +25876,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 345.44 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 345.44 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 345.44 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 345.44 438.15 0)
 			(effects
 				(font
@@ -24603,7 +26040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 434.34 208.28 0)
 			(effects
 				(font
@@ -24613,6 +26050,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 452.12 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 452.12 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 452.12 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 452.12 233.68 0)
 			(effects
 				(font
@@ -24726,7 +26190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 171.45 67.31 0)
 			(effects
 				(font
@@ -24736,6 +26200,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 171.45 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 171.45 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 171.45 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 171.45 67.31 0)
 			(effects
 				(font
@@ -24860,7 +26351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 130.81 205.74 0)
 			(effects
 				(font
@@ -24870,6 +26361,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 130.81 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 130.81 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 130.81 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 130.81 205.74 0)
 			(effects
 				(font
@@ -24930,7 +26448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 680.72 341.63 0)
 			(effects
 				(font
@@ -24940,6 +26458,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 680.72 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 680.72 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 680.72 341.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 680.72 341.63 0)
 			(effects
 				(font
@@ -25131,7 +26676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 694.69 436.88 0)
 			(effects
 				(font
@@ -25141,6 +26686,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 694.69 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 694.69 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 694.69 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 694.69 436.88 0)
 			(effects
 				(font
@@ -25200,7 +26772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 242.57 67.31 0)
 			(effects
 				(font
@@ -25210,6 +26782,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 242.57 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 242.57 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 242.57 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 242.57 67.31 0)
 			(effects
 				(font
@@ -25269,7 +26868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 74.93 67.31 0)
 			(effects
 				(font
@@ -25279,6 +26878,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 74.93 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 74.93 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 74.93 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 74.93 67.31 0)
 			(effects
 				(font
@@ -25356,6 +26982,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 670.56 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 670.56 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 670.56 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "91cc66bf-a731-4238-96db-f82f92e759a1")
 		)
@@ -25419,7 +27072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 298.45 360.68 0)
 			(effects
 				(font
@@ -25429,6 +27082,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 298.45 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 298.45 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 298.45 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 298.45 360.68 0)
 			(effects
 				(font
@@ -25488,7 +27168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 603.25 203.2 0)
 			(effects
 				(font
@@ -25498,6 +27178,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 603.25 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 603.25 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 603.25 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 603.25 203.2 0)
 			(effects
 				(font
@@ -25558,7 +27265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 53.34 95.25 0)
 			(effects
 				(font
@@ -25568,6 +27275,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 53.34 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 53.34 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 53.34 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 53.34 95.25 0)
 			(effects
 				(font
@@ -25693,7 +27427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 293.37 205.74 0)
 			(effects
 				(font
@@ -25703,6 +27437,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 293.37 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 293.37 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 293.37 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 293.37 205.74 0)
 			(effects
 				(font
@@ -25763,7 +27524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 90.17 233.68 0)
 			(effects
 				(font
@@ -25773,6 +27534,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 90.17 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 90.17 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 90.17 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 90.17 233.68 0)
 			(effects
 				(font
@@ -25833,7 +27621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 417.83 233.68 0)
 			(effects
 				(font
@@ -25843,6 +27631,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 417.83 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 417.83 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 417.83 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 417.83 233.68 0)
 			(effects
 				(font
@@ -25986,6 +27801,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 115.57 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 115.57 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 115.57 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579af7")
 		)
@@ -26059,6 +27901,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 314.96 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 314.96 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 314.96 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 314.96 430.53 0)
 			(effects
 				(font
@@ -26148,6 +28017,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 295.91 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 295.91 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 295.91 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579afd")
 		)
@@ -26211,7 +28107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 110.49 360.68 0)
 			(effects
 				(font
@@ -26221,6 +28117,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 110.49 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 110.49 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 110.49 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 110.49 360.68 0)
 			(effects
 				(font
@@ -26364,6 +28287,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 584.2 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 584.2 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 584.2 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc06")
 		)
@@ -26428,7 +28378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 40.64 95.25 0)
 			(effects
 				(font
@@ -26438,6 +28388,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 40.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 40.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 40.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 40.64 95.25 0)
 			(effects
 				(font
@@ -26498,7 +28475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 577.85 386.08 0)
 			(effects
 				(font
@@ -26508,6 +28485,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 577.85 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 577.85 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 577.85 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 577.85 386.08 0)
 			(effects
 				(font
@@ -26567,7 +28571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 125.73 205.74 0)
 			(effects
 				(font
@@ -26577,6 +28581,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 125.73 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 125.73 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 125.73 205.74 0)
 			(effects
 				(font
@@ -26785,6 +28816,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 642.62 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 642.62 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 642.62 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc07")
 		)
@@ -26979,7 +29037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 548.64 275.59 0)
 			(effects
 				(font
@@ -26989,6 +29047,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 548.64 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 548.64 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 548.64 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 548.64 275.59 0)
 			(effects
 				(font
@@ -27180,7 +29265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 204.47 95.25 0)
 			(effects
 				(font
@@ -27190,6 +29275,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 204.47 95.25 0)
 			(effects
 				(font
@@ -27315,7 +29427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 283.21 205.74 0)
 			(effects
 				(font
@@ -27325,6 +29437,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 283.21 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 283.21 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 283.21 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 283.21 205.74 0)
 			(effects
 				(font
@@ -27450,7 +29589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 237.49 67.31 0)
 			(effects
 				(font
@@ -27460,6 +29599,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 237.49 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 237.49 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 237.49 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 237.49 67.31 0)
 			(effects
 				(font
@@ -27585,7 +29751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 468.63 360.68 0)
 			(effects
 				(font
@@ -27595,6 +29761,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 468.63 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 468.63 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 468.63 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 468.63 360.68 0)
 			(effects
 				(font
@@ -27720,7 +29913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 323.85 67.31 0)
 			(effects
 				(font
@@ -27730,6 +29923,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 323.85 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 323.85 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 323.85 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 323.85 67.31 0)
 			(effects
 				(font
@@ -27855,7 +30075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 100.33 67.31 0)
 			(effects
 				(font
@@ -27865,6 +30085,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 100.33 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 100.33 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 100.33 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 100.33 67.31 0)
 			(effects
 				(font
@@ -27925,7 +30172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 252.73 389.89 0)
 			(effects
 				(font
@@ -27935,6 +30182,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 252.73 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 252.73 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 252.73 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 252.73 389.89 0)
 			(effects
 				(font
@@ -27994,7 +30268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 262.89 67.31 0)
 			(effects
 				(font
@@ -28004,6 +30278,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 262.89 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 262.89 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 262.89 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 262.89 67.31 0)
 			(effects
 				(font
@@ -28138,6 +30439,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 133.35 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 133.35 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 133.35 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 133.35 275.59 0)
 			(effects
 				(font
@@ -28342,7 +30670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 121.92 95.25 0)
 			(effects
 				(font
@@ -28352,6 +30680,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 121.92 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 121.92 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 121.92 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 121.92 95.25 0)
 			(effects
 				(font
@@ -28607,7 +30962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 463.55 205.74 0)
 			(effects
 				(font
@@ -28617,6 +30972,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 463.55 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 463.55 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 463.55 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 463.55 205.74 0)
 			(effects
 				(font
@@ -28742,7 +31124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 438.15 360.68 0)
 			(effects
 				(font
@@ -28752,6 +31134,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 438.15 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 438.15 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 438.15 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 438.15 360.68 0)
 			(effects
 				(font
@@ -28877,7 +31286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 105.41 360.68 0)
 			(effects
 				(font
@@ -28887,6 +31296,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 105.41 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 105.41 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 105.41 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 105.41 360.68 0)
 			(effects
 				(font
@@ -28946,7 +31382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 463.55 360.68 0)
 			(effects
 				(font
@@ -28956,6 +31392,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 463.55 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 463.55 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 463.55 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 463.55 360.68 0)
 			(effects
 				(font
@@ -29016,7 +31479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 297.18 95.25 0)
 			(effects
 				(font
@@ -29026,6 +31489,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 297.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 297.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 297.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 297.18 95.25 0)
 			(effects
 				(font
@@ -29085,7 +31575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 613.41 358.14 0)
 			(effects
 				(font
@@ -29095,6 +31585,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 613.41 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 613.41 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 613.41 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 613.41 358.14 0)
 			(effects
 				(font
@@ -29164,6 +31681,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 69.85 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 69.85 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 69.85 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 69.85 283.21 0)
 			(effects
 				(font
@@ -29251,6 +31795,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-11933-2-ND"
+			(at 74.93 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C7836"
+			(at 74.93 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC1G17DBVR"
+			(at 74.93 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "718bd011-2150-4463-be5e-5a293e3f1865")
 		)
@@ -29312,7 +31883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 406.4 388.62 0)
 			(effects
 				(font
@@ -29322,6 +31893,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 406.4 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 406.4 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 406.4 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 406.4 388.62 0)
 			(effects
 				(font
@@ -29382,7 +31980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 223.52 278.13 0)
 			(effects
 				(font
@@ -29392,6 +31990,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 223.52 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 223.52 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 223.52 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 223.52 278.13 0)
 			(effects
 				(font
@@ -29517,7 +32142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 105.41 205.74 0)
 			(effects
 				(font
@@ -29527,6 +32152,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 105.41 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 105.41 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 105.41 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 105.41 205.74 0)
 			(effects
 				(font
@@ -29736,6 +32388,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 443.23 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 443.23 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 443.23 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "e6b313f2-2294-4cec-9766-a75e960529bf")
 		)
@@ -29865,7 +32544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 603.25 358.14 0)
 			(effects
 				(font
@@ -29875,6 +32554,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 603.25 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 603.25 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 603.25 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 603.25 358.14 0)
 			(effects
 				(font
@@ -29934,7 +32640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 120.65 360.68 0)
 			(effects
 				(font
@@ -29944,6 +32650,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 120.65 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 120.65 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 120.65 360.68 0)
 			(effects
 				(font
@@ -30003,7 +32736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 120.65 205.74 0)
 			(effects
 				(font
@@ -30013,6 +32746,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 120.65 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 120.65 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 120.65 205.74 0)
 			(effects
 				(font
@@ -30090,6 +32850,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 557.53 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 557.53 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 557.53 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579aff")
 		)
@@ -30155,7 +32942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 226.06 140.97 0)
 			(effects
 				(font
@@ -30165,6 +32952,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 226.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 226.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 226.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 226.06 140.97 0)
 			(effects
 				(font
@@ -30225,7 +33039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 60.96 433.07 0)
 			(effects
 				(font
@@ -30235,6 +33049,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 60.96 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 60.96 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 60.96 433.07 0)
 			(effects
 				(font
@@ -30294,7 +33135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 598.17 358.14 0)
 			(effects
 				(font
@@ -30304,6 +33145,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 598.17 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 598.17 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 598.17 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 598.17 358.14 0)
 			(effects
 				(font
@@ -30371,6 +33239,33 @@
 			)
 		)
 		(property "Description" "Single Schmitt Buffer Gate, Low-Voltage CMOS"
+			(at 318.77 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-11933-2-ND"
+			(at 318.77 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C7836"
+			(at 318.77 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC1G17DBVR"
 			(at 318.77 130.81 0)
 			(effects
 				(font
@@ -30505,7 +33400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 303.53 360.68 0)
 			(effects
 				(font
@@ -30515,6 +33410,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 303.53 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 303.53 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 303.53 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 303.53 360.68 0)
 			(effects
 				(font
@@ -30921,6 +33843,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 480.06 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 480.06 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 480.06 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc09")
 		)
@@ -31002,6 +33951,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 345.44 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 345.44 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 345.44 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "eb2345f1-416c-4071-a6b9-a04ad5548682")
 		)
@@ -31066,7 +34042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 172.72 433.07 0)
 			(effects
 				(font
@@ -31076,6 +34052,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 172.72 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 172.72 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 172.72 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 172.72 433.07 0)
 			(effects
 				(font
@@ -31136,7 +34139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 241.3 389.89 0)
 			(effects
 				(font
@@ -31146,6 +34149,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.3 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 241.3 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 241.3 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 241.3 389.89 0)
 			(effects
 				(font
@@ -31215,6 +34245,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 115.57 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 115.57 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 115.57 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 115.57 430.53 0)
 			(effects
 				(font
@@ -31304,6 +34361,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 424.18 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 424.18 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 424.18 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579b00")
 		)
@@ -31367,7 +34451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 269.24 363.22 0)
 			(effects
 				(font
@@ -31377,6 +34461,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 287.02 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 287.02 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 287.02 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 287.02 388.62 0)
 			(effects
 				(font
@@ -31498,6 +34609,33 @@
 			)
 		)
 		(property "Description" "Single Schmitt Buffer Gate, Low-Voltage CMOS"
+			(at 237.49 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-11933-2-ND"
+			(at 237.49 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C7836"
+			(at 237.49 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC1G17DBVR"
 			(at 237.49 130.81 0)
 			(effects
 				(font
@@ -31632,7 +34770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 166.37 67.31 0)
 			(effects
 				(font
@@ -31642,6 +34780,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 166.37 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 166.37 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 166.37 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 166.37 67.31 0)
 			(effects
 				(font
@@ -31768,7 +34933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 500.38 278.13 0)
 			(effects
 				(font
@@ -31778,6 +34943,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 500.38 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 500.38 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 500.38 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 500.38 278.13 0)
 			(effects
 				(font
@@ -31838,7 +35030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 562.61 231.14 0)
 			(effects
 				(font
@@ -31848,6 +35040,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 562.61 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 562.61 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 562.61 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 562.61 231.14 0)
 			(effects
 				(font
@@ -32103,7 +35322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 257.81 67.31 0)
 			(effects
 				(font
@@ -32113,6 +35332,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 257.81 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 257.81 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 257.81 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 257.81 67.31 0)
 			(effects
 				(font
@@ -32173,7 +35419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 660.4 275.59 0)
 			(effects
 				(font
@@ -32183,6 +35429,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 660.4 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 660.4 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 660.4 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 660.4 275.59 0)
 			(effects
 				(font
@@ -32252,6 +35525,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 96.52 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 96.52 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 96.52 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 96.52 430.53 0)
 			(effects
 				(font
@@ -32585,7 +35885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 335.28 433.07 0)
 			(effects
 				(font
@@ -32595,6 +35895,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 335.28 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 335.28 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 335.28 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 335.28 433.07 0)
 			(effects
 				(font
@@ -32654,7 +35981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 85.09 67.31 0)
 			(effects
 				(font
@@ -32664,6 +35991,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 85.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 85.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 85.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 85.09 67.31 0)
 			(effects
 				(font
@@ -32920,7 +36274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 181.61 67.31 0)
 			(effects
 				(font
@@ -32930,6 +36284,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 181.61 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 181.61 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 181.61 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 181.61 67.31 0)
 			(effects
 				(font
@@ -33055,7 +36436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 106.68 363.22 0)
 			(effects
 				(font
@@ -33065,6 +36446,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 124.46 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 124.46 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 124.46 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 124.46 388.62 0)
 			(effects
 				(font
@@ -33179,7 +36587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 660.4 433.07 0)
 			(effects
 				(font
@@ -33189,6 +36597,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 660.4 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 660.4 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 660.4 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 660.4 433.07 0)
 			(effects
 				(font
@@ -33248,7 +36683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 267.97 360.68 0)
 			(effects
 				(font
@@ -33258,6 +36693,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 267.97 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 267.97 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 267.97 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 267.97 360.68 0)
 			(effects
 				(font
@@ -33317,7 +36779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 278.13 360.68 0)
 			(effects
 				(font
@@ -33327,6 +36789,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 278.13 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 278.13 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 278.13 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 278.13 360.68 0)
 			(effects
 				(font
@@ -33386,7 +36875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 273.05 205.74 0)
 			(effects
 				(font
@@ -33396,6 +36885,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 273.05 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 273.05 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 273.05 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 273.05 205.74 0)
 			(effects
 				(font
@@ -33456,7 +36972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 223.52 433.07 0)
 			(effects
 				(font
@@ -33466,6 +36982,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 223.52 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 223.52 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 223.52 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 223.52 433.07 0)
 			(effects
 				(font
@@ -33541,6 +37084,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-11933-2-ND"
+			(at 156.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C7836"
+			(at 156.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC1G17DBVR"
+			(at 156.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f361b870-c2b1-43bd-9287-781ba8329204")
 		)
@@ -33601,7 +37171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 593.09 358.14 0)
 			(effects
 				(font
@@ -33611,6 +37181,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 593.09 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 593.09 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 593.09 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 593.09 358.14 0)
 			(effects
 				(font
@@ -33746,6 +37343,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 640.08 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 640.08 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 640.08 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 640.08 430.53 0)
 			(effects
 				(font
@@ -34033,6 +37657,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 96.52 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 96.52 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 96.52 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579b02")
 		)
@@ -34097,7 +37748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 500.38 433.07 0)
 			(effects
 				(font
@@ -34107,6 +37758,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 500.38 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 500.38 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 500.38 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 500.38 433.07 0)
 			(effects
 				(font
@@ -34176,6 +37854,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 670.56 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 670.56 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 670.56 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 670.56 280.67 0)
 			(effects
 				(font
@@ -34462,6 +38167,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 640.08 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 640.08 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 640.08 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "5cb7de2d-bf5e-472a-b2a3-d9869bba5632")
 		)
@@ -34525,7 +38257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 443.23 205.74 0)
 			(effects
 				(font
@@ -34535,6 +38267,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 443.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 443.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 443.23 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 443.23 205.74 0)
 			(effects
 				(font
@@ -34659,7 +38418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 623.57 203.2 0)
 			(effects
 				(font
@@ -34669,6 +38428,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 623.57 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 623.57 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 623.57 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 623.57 203.2 0)
 			(effects
 				(font
@@ -34728,7 +38514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 628.65 203.2 0)
 			(effects
 				(font
@@ -34738,6 +38524,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 628.65 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 628.65 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 628.65 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 628.65 203.2 0)
 			(effects
 				(font
@@ -34807,6 +38620,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 461.01 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 461.01 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 461.01 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 461.01 430.53 0)
 			(effects
 				(font
@@ -35010,7 +38850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 565.15 386.08 0)
 			(effects
 				(font
@@ -35020,6 +38860,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 565.15 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 565.15 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 565.15 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 565.15 386.08 0)
 			(effects
 				(font
@@ -35079,7 +38946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 135.89 360.68 0)
 			(effects
 				(font
@@ -35089,6 +38956,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 135.89 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 135.89 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 135.89 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 135.89 360.68 0)
 			(effects
 				(font
@@ -35148,7 +39042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 334.01 67.31 0)
 			(effects
 				(font
@@ -35158,6 +39052,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 334.01 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 334.01 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 334.01 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 334.01 67.31 0)
 			(effects
 				(font
@@ -35284,7 +39205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 60.96 278.13 0)
 			(effects
 				(font
@@ -35294,6 +39215,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 60.96 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 60.96 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 60.96 278.13 0)
 			(effects
 				(font
@@ -35420,7 +39368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 78.74 388.62 0)
 			(effects
 				(font
@@ -35430,6 +39378,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 78.74 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 78.74 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 78.74 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 78.74 388.62 0)
 			(effects
 				(font
@@ -35499,6 +39474,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 397.51 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 397.51 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 397.51 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 397.51 283.21 0)
 			(effects
 				(font
@@ -35580,6 +39582,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 424.18 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 424.18 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 424.18 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 424.18 430.53 0)
 			(effects
 				(font
@@ -35782,7 +39811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 252.73 67.31 0)
 			(effects
 				(font
@@ -35792,6 +39821,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 252.73 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 252.73 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 252.73 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 252.73 67.31 0)
 			(effects
 				(font
@@ -36115,7 +40171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 593.09 203.2 0)
 			(effects
 				(font
@@ -36125,6 +40181,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 593.09 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 593.09 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 593.09 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 593.09 203.2 0)
 			(effects
 				(font
@@ -36184,7 +40267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 90.17 67.31 0)
 			(effects
 				(font
@@ -36194,6 +40277,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 90.17 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 90.17 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 90.17 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 90.17 67.31 0)
 			(effects
 				(font
@@ -36253,7 +40363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 598.17 203.2 0)
 			(effects
 				(font
@@ -36263,6 +40373,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 598.17 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 598.17 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 598.17 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 598.17 203.2 0)
 			(effects
 				(font
@@ -36340,6 +40477,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 510.54 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 510.54 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 510.54 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "cbc0f607-addb-4216-a869-1351556bcf3a")
 		)
@@ -36403,7 +40567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 312.42 69.85 0)
 			(effects
 				(font
@@ -36413,6 +40577,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 330.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 330.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 330.2 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 330.2 95.25 0)
 			(effects
 				(font
@@ -36591,7 +40782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 140.97 205.74 0)
 			(effects
 				(font
@@ -36601,6 +40792,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 140.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 140.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 140.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 140.97 205.74 0)
 			(effects
 				(font
@@ -36727,7 +40945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 419.1 388.62 0)
 			(effects
 				(font
@@ -36737,6 +40955,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 419.1 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 419.1 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 419.1 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 419.1 388.62 0)
 			(effects
 				(font
@@ -36814,6 +41059,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 510.54 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 510.54 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 510.54 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "fd0e269a-d48b-41e7-92f2-01ae4118c2a6")
 		)
@@ -36878,7 +41150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 548.64 433.07 0)
 			(effects
 				(font
@@ -36888,6 +41160,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 548.64 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 548.64 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 548.64 433.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 548.64 433.07 0)
 			(effects
 				(font
@@ -37012,7 +41311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 149.86 69.85 0)
 			(effects
 				(font
@@ -37022,6 +41321,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 167.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 167.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 167.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 167.64 95.25 0)
 			(effects
 				(font
@@ -37145,6 +41471,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 461.01 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 461.01 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 461.01 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 461.01 275.59 0)
 			(effects
 				(font
@@ -37300,6 +41653,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 584.2 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 584.2 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 584.2 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579b05")
 		)
@@ -37365,7 +41745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 307.34 140.97 0)
 			(effects
 				(font
@@ -37375,6 +41755,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 307.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 307.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 307.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 307.34 140.97 0)
 			(effects
 				(font
@@ -37566,7 +41973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 448.31 205.74 0)
 			(effects
 				(font
@@ -37576,6 +41983,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 448.31 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 448.31 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 448.31 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 448.31 205.74 0)
 			(effects
 				(font
@@ -37635,7 +42069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 80.01 67.31 0)
 			(effects
 				(font
@@ -37645,6 +42079,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 80.01 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 80.01 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 80.01 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 80.01 67.31 0)
 			(effects
 				(font
@@ -37985,6 +42446,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 690.88 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 690.88 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 690.88 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "2232308e-cb87-4a4d-8f18-6294ae3b8507")
 		)
@@ -38245,7 +42733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 110.49 205.74 0)
 			(effects
 				(font
@@ -38255,6 +42743,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 110.49 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 110.49 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 110.49 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 110.49 205.74 0)
 			(effects
 				(font
@@ -38314,7 +42829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 288.29 205.74 0)
 			(effects
 				(font
@@ -38324,6 +42839,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 288.29 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 288.29 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 288.29 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 288.29 205.74 0)
 			(effects
 				(font
@@ -38383,7 +42925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 438.15 205.74 0)
 			(effects
 				(font
@@ -38393,6 +42935,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 438.15 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 438.15 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 438.15 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 438.15 205.74 0)
 			(effects
 				(font
@@ -38452,7 +43021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 433.07 360.68 0)
 			(effects
 				(font
@@ -38462,6 +43031,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 433.07 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 433.07 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 433.07 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 433.07 360.68 0)
 			(effects
 				(font
@@ -38522,7 +43118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 134.62 95.25 0)
 			(effects
 				(font
@@ -38532,6 +43128,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 134.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 134.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 134.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 134.62 95.25 0)
 			(effects
 				(font
@@ -38591,7 +43214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 156.21 67.31 0)
 			(effects
 				(font
@@ -38601,6 +43224,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 156.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 156.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 156.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 156.21 67.31 0)
 			(effects
 				(font
@@ -38660,7 +43310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 176.53 67.31 0)
 			(effects
 				(font
@@ -38670,6 +43320,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 176.53 67.31 0)
 			(effects
 				(font
@@ -38729,7 +43406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 125.73 360.68 0)
 			(effects
 				(font
@@ -38739,6 +43416,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 125.73 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 125.73 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 125.73 360.68 0)
 			(effects
 				(font
@@ -38948,6 +43652,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 152.4 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 152.4 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 152.4 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc0d")
 		)
@@ -39011,7 +43742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 443.23 360.68 0)
 			(effects
 				(font
@@ -39021,6 +43752,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 443.23 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 443.23 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 443.23 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 443.23 360.68 0)
 			(effects
 				(font
@@ -39098,6 +43856,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 480.06 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 480.06 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 480.06 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc0e")
 		)
@@ -39161,7 +43946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 283.21 360.68 0)
 			(effects
 				(font
@@ -39171,6 +43956,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 283.21 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 283.21 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 283.21 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 283.21 360.68 0)
 			(effects
 				(font
@@ -39230,7 +44042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 130.81 360.68 0)
 			(effects
 				(font
@@ -39240,6 +44052,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 130.81 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 130.81 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 130.81 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 130.81 360.68 0)
 			(effects
 				(font
@@ -39364,7 +44203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 231.14 69.85 0)
 			(effects
 				(font
@@ -39374,6 +44213,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 248.92 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 248.92 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 248.92 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 248.92 95.25 0)
 			(effects
 				(font
@@ -39505,6 +44371,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 232.41 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 232.41 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 232.41 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "02658dbc-e0d9-43ce-a72b-e7517d579b06")
 		)
@@ -39568,7 +44461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 448.31 360.68 0)
 			(effects
 				(font
@@ -39578,6 +44471,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 448.31 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 448.31 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 448.31 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 448.31 360.68 0)
 			(effects
 				(font
@@ -39833,7 +44753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 608.33 203.2 0)
 			(effects
 				(font
@@ -39843,6 +44763,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 608.33 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 608.33 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 608.33 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 608.33 203.2 0)
 			(effects
 				(font
@@ -39977,6 +44924,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 152.4 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 152.4 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 152.4 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 152.4 275.59 0)
 			(effects
 				(font
@@ -40197,6 +45171,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 278.13 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 278.13 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 278.13 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc10")
 		)
@@ -40344,6 +45345,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 278.13 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 278.13 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 278.13 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "d184a211-b5e8-410a-a54d-5de2e95f5610")
 		)
@@ -40409,7 +45437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 63.5 140.97 0)
 			(effects
 				(font
@@ -40419,6 +45447,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 63.5 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 63.5 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 63.5 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 63.5 140.97 0)
 			(effects
 				(font
@@ -40479,7 +45534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 217.17 95.25 0)
 			(effects
 				(font
@@ -40489,6 +45544,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 217.17 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 217.17 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 217.17 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 217.17 95.25 0)
 			(effects
 				(font
@@ -40680,7 +45762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 240.03 232.41 0)
 			(effects
 				(font
@@ -40690,6 +45772,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 240.03 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 240.03 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 240.03 232.41 0)
 			(effects
 				(font
@@ -40749,7 +45858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 106.68 208.28 0)
 			(effects
 				(font
@@ -40759,6 +45868,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 124.46 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 124.46 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 124.46 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 124.46 233.68 0)
 			(effects
 				(font
@@ -40873,7 +46009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 575.31 231.14 0)
 			(effects
 				(font
@@ -40883,6 +46019,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 575.31 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 575.31 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 575.31 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 575.31 231.14 0)
 			(effects
 				(font
@@ -40943,7 +46106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 172.72 278.13 0)
 			(effects
 				(font
@@ -40953,6 +46116,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 172.72 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 172.72 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 172.72 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 172.72 278.13 0)
 			(effects
 				(font
@@ -41211,7 +46401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/cl05b104ko5nnnc-samsung-9299366"
 			(at 76.2 233.68 0)
 			(effects
 				(font
@@ -41221,6 +46411,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 76.2 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1001-2-ND"
+			(at 76.2 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 76.2 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 76.2 233.68 0)
 			(effects
 				(font
@@ -41346,7 +46563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 269.24 208.28 0)
 			(effects
 				(font
@@ -41356,6 +46573,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 287.02 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND"
+			(at 287.02 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 287.02 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 287.02 233.68 0)
 			(effects
 				(font
@@ -41469,7 +46713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 618.49 358.14 0)
 			(effects
 				(font
@@ -41479,6 +46723,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 618.49 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 618.49 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 618.49 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 618.49 358.14 0)
 			(effects
 				(font
@@ -41548,6 +46819,33 @@
 			)
 		)
 		(property "Description" "Dual Buffer Schmitt Triggered, Low-Voltage CMOS"
+			(at 259.08 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 259.08 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 259.08 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
 			(at 259.08 430.53 0)
 			(effects
 				(font
@@ -41684,7 +46982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 267.97 205.74 0)
 			(effects
 				(font
@@ -41694,6 +46992,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 267.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 267.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 267.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 267.97 205.74 0)
 			(effects
 				(font
@@ -41818,7 +47143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 339.09 67.31 0)
 			(effects
 				(font
@@ -41828,6 +47153,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 339.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 339.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 339.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 339.09 67.31 0)
 			(effects
 				(font
@@ -42166,6 +47518,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey PN" "296-SN74LVC2G17DBVRTR-ND"
+			(at 603.25 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C10429"
+			(at 603.25 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN74LVC2G17DBVR"
+			(at 603.25 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "1bc693ae-881a-4d19-87a0-4f817d17bc11")
 		)
@@ -42427,7 +47806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://octopart.com/datasheet/0402wgf330jtce-royal+ohm-61710468"
 			(at 613.41 203.2 0)
 			(effects
 				(font
@@ -42437,6 +47816,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 613.41 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 613.41 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C25105"
+			(at 613.41 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF330JTCE"
 			(at 613.41 203.2 0)
 			(effects
 				(font
