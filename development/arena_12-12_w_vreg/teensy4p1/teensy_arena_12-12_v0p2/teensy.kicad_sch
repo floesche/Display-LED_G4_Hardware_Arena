@@ -3,7 +3,13 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "05098ad0-cc54-4db2-a4ff-6a5da3adc09b")
-	(paper "A4")
+	(paper "USLetter")
+	(title_block
+		(title "12-12 Teensy G4.1 Arena Modular LED Display")
+		(date "2024-10-08")
+		(rev "v0.2")
+		(company "IORodeo for Reiserlab @ Janelia")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names
@@ -4782,7 +4788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_BOOMELE-Boom-Precision-Elec-1-0T-4P_C145956.pdf"
 			(at 136.652 149.606 0)
 			(effects
 				(font
@@ -4792,6 +4798,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 136.652 149.606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 136.652 149.606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C145956"
+			(at 136.652 149.606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1.0T-4P"
 			(at 136.652 149.606 0)
 			(effects
 				(font
@@ -4960,7 +4993,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "57736547-9b71-4aff-bf36-03bdb59d93b4")
 		(property "Reference" "U18"
@@ -4998,6 +5031,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 105.156 88.392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 105.156 88.392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 105.156 88.392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 105.156 88.392 0)
 			(effects
 				(font
@@ -5386,7 +5446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_BOOMELE-Boom-Precision-Elec-1-0T-4P_C145956.pdf"
 			(at 81.534 150.368 0)
 			(effects
 				(font
@@ -5396,6 +5456,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 81.534 150.368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 81.534 150.368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C145956"
+			(at 81.534 150.368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1.0T-4P"
 			(at 81.534 150.368 0)
 			(effects
 				(font

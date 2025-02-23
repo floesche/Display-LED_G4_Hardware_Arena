@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "d894d059-e435-4d57-811e-6bb474e952c8")
 	(paper "User" 406.4 152.4)
+	(title_block
+		(title "12-12 Teensy G4.1 Arena Modular LED Display")
+		(date "2024-10-08")
+		(rev "v0.2")
+		(company "IORodeo for Reiserlab @ Janelia")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)
@@ -4927,7 +4933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 197.358 115.189 0)
 			(effects
 				(font
@@ -4937,6 +4943,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 197.358 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 197.358 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 197.358 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 197.358 115.189 0)
 			(effects
 				(font
@@ -5389,7 +5422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 52.578 39.243 0)
 			(effects
 				(font
@@ -5399,6 +5432,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 70.358 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND "
+			(at 70.358 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 70.358 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 70.358 64.643 0)
 			(effects
 				(font
@@ -5579,7 +5639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 74.041 115.316 0)
 			(effects
 				(font
@@ -5589,6 +5649,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 74.041 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 74.041 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 74.041 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 74.041 115.316 0)
 			(effects
 				(font
@@ -5649,7 +5736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 254.381 115.443 0)
 			(effects
 				(font
@@ -5659,6 +5746,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 254.381 115.443 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 254.381 115.443 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 254.381 115.443 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 254.381 115.443 0)
 			(effects
 				(font
@@ -5719,7 +5833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 62.103 115.316 0)
 			(effects
 				(font
@@ -5729,6 +5843,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 62.103 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 62.103 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 62.103 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 62.103 115.316 0)
 			(effects
 				(font
@@ -5920,7 +6061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 232.918 39.243 0)
 			(effects
 				(font
@@ -5930,6 +6071,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 250.698 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND "
+			(at 250.698 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 250.698 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 250.698 64.643 0)
 			(effects
 				(font
@@ -6044,7 +6212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 152.4 115.316 0)
 			(effects
 				(font
@@ -6054,6 +6222,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 152.4 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 152.4 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 152.4 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 152.4 115.316 0)
 			(effects
 				(font
@@ -6312,7 +6507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 107.315 115.189 0)
 			(effects
 				(font
@@ -6322,6 +6517,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 107.315 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 107.315 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 107.315 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 107.315 115.189 0)
 			(effects
 				(font
@@ -6578,7 +6800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 209.296 115.189 0)
 			(effects
 				(font
@@ -6588,6 +6810,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.296 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 209.296 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 209.296 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 209.296 115.189 0)
 			(effects
 				(font
@@ -7304,7 +7553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 97.663 39.243 0)
 			(effects
 				(font
@@ -7314,6 +7563,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 115.443 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND "
+			(at 115.443 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 115.443 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 115.443 64.643 0)
 			(effects
 				(font
@@ -7494,7 +7770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 119.253 115.189 0)
 			(effects
 				(font
@@ -7504,6 +7780,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.253 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 119.253 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 119.253 115.189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 119.253 115.189 0)
 			(effects
 				(font
@@ -7628,7 +7931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 142.748 39.243 0)
 			(effects
 				(font
@@ -7638,6 +7941,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 160.528 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND "
+			(at 160.528 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 160.528 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 160.528 64.643 0)
 			(effects
 				(font
@@ -7949,7 +8279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 164.338 115.316 0)
 			(effects
 				(font
@@ -7959,6 +8289,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 164.338 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 164.338 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 164.338 115.316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 164.338 115.316 0)
 			(effects
 				(font
@@ -8085,7 +8442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 242.443 115.443 0)
 			(effects
 				(font
@@ -8095,6 +8452,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.443 115.443 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 242.443 115.443 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 242.443 115.443 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 242.443 115.443 0)
 			(effects
 				(font
@@ -8220,7 +8604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/txb0108"
 			(at 187.833 39.243 0)
 			(effects
 				(font
@@ -8230,6 +8614,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 205.613 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-21527-2-ND "
+			(at 205.613 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C53406"
+			(at 205.613 64.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0108PWR"
 			(at 205.613 64.643 0)
 			(effects
 				(font

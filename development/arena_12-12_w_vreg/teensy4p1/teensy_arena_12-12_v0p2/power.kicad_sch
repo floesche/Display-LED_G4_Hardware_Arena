@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "306e5b8e-03e2-495a-8d9b-de2d10577a54")
 	(paper "User" 355.6 254)
+	(title_block
+		(title "12-12 Teensy G4.1 Arena Modular LED Display")
+		(date "2024-10-08")
+		(rev "v0.2")
+		(company "IORodeo for Reiserlab @ Janelia")
+	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack"
 			(pin_names
@@ -5521,7 +5527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 57.785 111.125 0)
 			(effects
 				(font
@@ -5531,6 +5537,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 57.785 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 57.785 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 57.785 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 57.785 111.125 0)
 			(effects
 				(font
@@ -5602,7 +5635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 45.72 149.86 0)
 			(effects
 				(font
@@ -5612,6 +5645,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 45.72 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 45.72 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 45.72 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 45.72 149.86 0)
 			(effects
 				(font
@@ -5670,7 +5730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 149.86 146.05 0)
 			(effects
 				(font
@@ -5680,6 +5740,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 149.86 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 149.86 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 149.86 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 149.86 146.05 0)
 			(effects
 				(font
@@ -5750,7 +5837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 149.86 111.125 0)
 			(effects
 				(font
@@ -5760,6 +5847,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 149.86 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 149.86 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 149.86 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 149.86 111.125 0)
 			(effects
 				(font
@@ -5831,7 +5945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 229.87 149.86 0)
 			(effects
 				(font
@@ -5841,6 +5955,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 229.87 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 229.87 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 229.87 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 229.87 149.86 0)
 			(effects
 				(font
@@ -5965,7 +6106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 97.79 43.18 0)
 			(effects
 				(font
@@ -5975,6 +6116,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 97.79 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 97.79 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 97.79 43.18 0)
 			(effects
 				(font
@@ -6034,7 +6202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 255.27 37.465 0)
 			(effects
 				(font
@@ -6044,6 +6212,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.27 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 255.27 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 255.27 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 255.27 37.465 0)
 			(effects
 				(font
@@ -6103,7 +6298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 137.795 149.86 0)
 			(effects
 				(font
@@ -6113,6 +6308,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 137.795 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 137.795 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 137.795 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 137.795 149.86 0)
 			(effects
 				(font
@@ -6237,7 +6459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 270.51 144.145 0)
 			(effects
 				(font
@@ -6247,6 +6469,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 270.51 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 270.51 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 270.51 144.145 0)
 			(effects
 				(font
@@ -6371,7 +6620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 163.195 37.465 0)
 			(effects
 				(font
@@ -6381,6 +6630,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 163.195 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 163.195 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 163.195 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 163.195 37.465 0)
 			(effects
 				(font
@@ -6440,7 +6716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 71.12 142.24 0)
 			(effects
 				(font
@@ -6450,6 +6726,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 71.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 71.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 71.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 71.12 142.24 0)
 			(effects
 				(font
@@ -6509,7 +6812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 281.94 43.18 0)
 			(effects
 				(font
@@ -6519,6 +6822,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 281.94 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 281.94 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 281.94 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 281.94 43.18 0)
 			(effects
 				(font
@@ -6643,7 +6973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 86.36 81.915 0)
 			(effects
 				(font
@@ -6653,6 +6983,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 86.36 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 86.36 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 86.36 81.915 0)
 			(effects
 				(font
@@ -6775,7 +7132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 80.645 69.215 0)
 			(effects
 				(font
@@ -6785,6 +7142,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 80.645 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 80.645 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 80.645 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 80.645 69.215 0)
 			(effects
 				(font
@@ -6909,7 +7293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 270.51 74.295 0)
 			(effects
 				(font
@@ -6919,6 +7303,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 270.51 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 270.51 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 270.51 74.295 0)
 			(effects
 				(font
@@ -7368,7 +7779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 270.51 151.765 0)
 			(effects
 				(font
@@ -7378,6 +7789,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 270.51 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 270.51 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 270.51 151.765 0)
 			(effects
 				(font
@@ -7761,7 +8199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 172.72 104.14 0)
 			(effects
 				(font
@@ -7771,6 +8209,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 172.72 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 172.72 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 172.72 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 172.72 104.14 0)
 			(effects
 				(font
@@ -7830,7 +8295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 86.36 144.145 0)
 			(effects
 				(font
@@ -7840,6 +8305,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 86.36 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 86.36 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 86.36 144.145 0)
 			(effects
 				(font
@@ -8227,7 +8719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 97.79 113.03 0)
 			(effects
 				(font
@@ -8237,6 +8729,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 97.79 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 97.79 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 97.79 113.03 0)
 			(effects
 				(font
@@ -8555,7 +9074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 80.645 104.14 0)
 			(effects
 				(font
@@ -8565,6 +9084,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 80.645 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 80.645 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 80.645 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 80.645 104.14 0)
 			(effects
 				(font
@@ -8624,7 +9170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 270.51 39.37 0)
 			(effects
 				(font
@@ -8634,6 +9180,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 270.51 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 270.51 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 270.51 39.37 0)
 			(effects
 				(font
@@ -8825,7 +9398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/PJ-063AH-Same-Sky-datasheet-181917378.pdf"
 			(at 88.265 218.186 0)
 			(effects
 				(font
@@ -8835,6 +9408,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 89.535 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "CP-063AH-ND"
+			(at 89.535 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2928097"
+			(at 89.535 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PJ-063AH"
 			(at 89.535 217.17 0)
 			(effects
 				(font
@@ -8894,7 +9494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 71.12 107.315 0)
 			(effects
 				(font
@@ -8904,6 +9504,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 71.12 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 71.12 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 71.12 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 71.12 107.315 0)
 			(effects
 				(font
@@ -9029,7 +9656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -9039,6 +9666,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 86.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 86.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -9096,7 +9750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 172.72 34.29 0)
 			(effects
 				(font
@@ -9106,6 +9760,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 172.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 172.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 172.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 172.72 34.29 0)
 			(effects
 				(font
@@ -9165,7 +9846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 178.435 39.37 0)
 			(effects
 				(font
@@ -9175,6 +9856,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 178.435 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 178.435 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 178.435 39.37 0)
 			(effects
 				(font
@@ -9299,7 +10007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 189.865 113.03 0)
 			(effects
 				(font
@@ -9309,6 +10017,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 189.865 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 189.865 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 189.865 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 189.865 113.03 0)
 			(effects
 				(font
@@ -9368,7 +10103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 229.87 114.935 0)
 			(effects
 				(font
@@ -9378,6 +10113,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 229.87 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 229.87 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 229.87 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 229.87 114.935 0)
 			(effects
 				(font
@@ -9437,7 +10199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 45.72 114.935 0)
 			(effects
 				(font
@@ -9447,6 +10209,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 45.72 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 45.72 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 45.72 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 45.72 114.935 0)
 			(effects
 				(font
@@ -9506,7 +10295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 45.72 45.085 0)
 			(effects
 				(font
@@ -9516,6 +10305,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 45.72 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 45.72 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 45.72 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 45.72 45.085 0)
 			(effects
 				(font
@@ -9574,7 +10390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/L102021ML04Q-C%26K-Components-datasheet-62111167.pdf"
 			(at 56.515 217.17 0)
 			(effects
 				(font
@@ -9584,6 +10400,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 56.515 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "CKC5102-ND"
+			(at 56.515 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2798743"
+			(at 56.515 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "L102021ML04Q"
 			(at 56.515 217.17 0)
 			(effects
 				(font
@@ -9711,7 +10554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 163.195 142.24 0)
 			(effects
 				(font
@@ -9721,6 +10564,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 163.195 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 163.195 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 163.195 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 163.195 142.24 0)
 			(effects
 				(font
@@ -9973,7 +10843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 264.795 69.215 0)
 			(effects
 				(font
@@ -9983,6 +10853,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 264.795 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 264.795 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 264.795 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 264.795 69.215 0)
 			(effects
 				(font
@@ -10107,7 +11004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 270.51 116.84 0)
 			(effects
 				(font
@@ -10117,6 +11014,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 270.51 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 270.51 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 270.51 116.84 0)
 			(effects
 				(font
@@ -10175,7 +11099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 241.935 41.275 0)
 			(effects
 				(font
@@ -10185,6 +11109,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.935 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 241.935 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 241.935 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 241.935 41.275 0)
 			(effects
 				(font
@@ -10256,7 +11207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 178.435 144.145 0)
 			(effects
 				(font
@@ -10266,6 +11217,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 178.435 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 178.435 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 178.435 144.145 0)
 			(effects
 				(font
@@ -10390,7 +11368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 178.435 109.22 0)
 			(effects
 				(font
@@ -10400,6 +11378,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 178.435 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 178.435 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 178.435 109.22 0)
 			(effects
 				(font
@@ -10458,7 +11463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 149.86 76.2 0)
 			(effects
 				(font
@@ -10468,6 +11473,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 149.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 149.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 149.86 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 149.86 76.2 0)
 			(effects
 				(font
@@ -10539,7 +11571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 71.12 72.39 0)
 			(effects
 				(font
@@ -10549,6 +11581,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 71.12 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 71.12 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 71.12 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 71.12 72.39 0)
 			(effects
 				(font
@@ -10608,7 +11667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -10618,6 +11677,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 86.36 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 86.36 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -10743,7 +11829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 97.79 147.955 0)
 			(effects
 				(font
@@ -10753,6 +11839,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 97.79 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 97.79 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 97.79 147.955 0)
 			(effects
 				(font
@@ -10875,7 +11988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 80.645 34.29 0)
 			(effects
 				(font
@@ -10885,6 +11998,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 80.645 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 80.645 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 80.645 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 80.645 34.29 0)
 			(effects
 				(font
@@ -11074,7 +12214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 178.435 116.84 0)
 			(effects
 				(font
@@ -11084,6 +12224,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 178.435 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 178.435 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 178.435 116.84 0)
 			(effects
 				(font
@@ -11143,7 +12310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 97.79 78.105 0)
 			(effects
 				(font
@@ -11153,6 +12320,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 97.79 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 97.79 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 97.79 78.105 0)
 			(effects
 				(font
@@ -11212,7 +12406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 163.195 107.315 0)
 			(effects
 				(font
@@ -11222,6 +12416,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 163.195 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 163.195 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 163.195 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 163.195 107.315 0)
 			(effects
 				(font
@@ -11476,7 +12697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 57.785 41.275 0)
 			(effects
 				(font
@@ -11486,6 +12707,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 57.785 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 57.785 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 57.785 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 57.785 41.275 0)
 			(effects
 				(font
@@ -11623,7 +12871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 281.94 147.955 0)
 			(effects
 				(font
@@ -11633,6 +12881,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 281.94 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 281.94 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 281.94 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 281.94 147.955 0)
 			(effects
 				(font
@@ -11691,7 +12966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 57.785 76.2 0)
 			(effects
 				(font
@@ -11701,6 +12976,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 57.785 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 57.785 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 57.785 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 57.785 76.2 0)
 			(effects
 				(font
@@ -11838,7 +13140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 45.72 80.01 0)
 			(effects
 				(font
@@ -11848,6 +13150,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 45.72 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 45.72 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 45.72 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 45.72 80.01 0)
 			(effects
 				(font
@@ -11907,7 +13236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 255.27 107.315 0)
 			(effects
 				(font
@@ -11917,6 +13246,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.27 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 255.27 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 255.27 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 255.27 107.315 0)
 			(effects
 				(font
@@ -12042,7 +13398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 189.865 147.955 0)
 			(effects
 				(font
@@ -12052,6 +13408,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 189.865 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 189.865 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 189.865 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 189.865 147.955 0)
 			(effects
 				(font
@@ -12176,7 +13559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 229.87 80.01 0)
 			(effects
 				(font
@@ -12186,6 +13569,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 229.87 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 229.87 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 229.87 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 229.87 80.01 0)
 			(effects
 				(font
@@ -12245,7 +13655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 137.795 114.935 0)
 			(effects
 				(font
@@ -12255,6 +13665,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 137.795 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 137.795 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 137.795 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 137.795 114.935 0)
 			(effects
 				(font
@@ -12313,7 +13750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 241.935 111.125 0)
 			(effects
 				(font
@@ -12323,6 +13760,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.935 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 241.935 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 241.935 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 241.935 111.125 0)
 			(effects
 				(font
@@ -12392,7 +13856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 264.795 139.065 0)
 			(effects
 				(font
@@ -12402,6 +13866,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 264.795 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 264.795 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 264.795 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 264.795 139.065 0)
 			(effects
 				(font
@@ -12460,7 +13951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 149.86 41.275 0)
 			(effects
 				(font
@@ -12470,6 +13961,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 149.86 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 149.86 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 149.86 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 149.86 41.275 0)
 			(effects
 				(font
@@ -12606,7 +14124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 178.435 46.99 0)
 			(effects
 				(font
@@ -12616,6 +14134,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 178.435 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 178.435 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 178.435 46.99 0)
 			(effects
 				(font
@@ -12741,7 +14286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 178.435 151.765 0)
 			(effects
 				(font
@@ -12751,6 +14296,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 178.435 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 178.435 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 178.435 151.765 0)
 			(effects
 				(font
@@ -13006,7 +14578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 281.94 113.03 0)
 			(effects
 				(font
@@ -13016,6 +14588,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 281.94 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 281.94 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 281.94 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 281.94 113.03 0)
 			(effects
 				(font
@@ -13075,7 +14674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 71.12 37.465 0)
 			(effects
 				(font
@@ -13085,6 +14684,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 71.12 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 71.12 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 71.12 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 71.12 37.465 0)
 			(effects
 				(font
@@ -13144,7 +14770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 163.195 72.39 0)
 			(effects
 				(font
@@ -13154,6 +14780,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 163.195 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 163.195 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 163.195 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 163.195 72.39 0)
 			(effects
 				(font
@@ -13211,7 +14864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 172.72 69.215 0)
 			(effects
 				(font
@@ -13221,6 +14874,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 172.72 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 172.72 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 172.72 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 172.72 69.215 0)
 			(effects
 				(font
@@ -13345,7 +15025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 189.865 43.18 0)
 			(effects
 				(font
@@ -13355,6 +15035,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 189.865 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 189.865 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 189.865 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 189.865 43.18 0)
 			(effects
 				(font
@@ -13412,7 +15119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 264.795 34.29 0)
 			(effects
 				(font
@@ -13422,6 +15129,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 264.795 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 264.795 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 264.795 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 264.795 34.29 0)
 			(effects
 				(font
@@ -13610,7 +15344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 57.785 146.05 0)
 			(effects
 				(font
@@ -13620,6 +15354,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 57.785 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 57.785 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 57.785 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 57.785 146.05 0)
 			(effects
 				(font
@@ -13821,7 +15582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 189.865 78.105 0)
 			(effects
 				(font
@@ -13831,6 +15592,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 189.865 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 189.865 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 189.865 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 189.865 78.105 0)
 			(effects
 				(font
@@ -13890,7 +15678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 255.27 72.39 0)
 			(effects
 				(font
@@ -13900,6 +15688,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.27 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 255.27 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 255.27 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 255.27 72.39 0)
 			(effects
 				(font
@@ -14024,7 +15839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 270.51 81.915 0)
 			(effects
 				(font
@@ -14034,6 +15849,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 270.51 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 270.51 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 270.51 81.915 0)
 			(effects
 				(font
@@ -14091,7 +15933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 172.72 139.065 0)
 			(effects
 				(font
@@ -14101,6 +15943,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 172.72 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 172.72 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 172.72 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 172.72 139.065 0)
 			(effects
 				(font
@@ -14289,7 +16158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 241.935 146.05 0)
 			(effects
 				(font
@@ -14299,6 +16168,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.935 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 241.935 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 241.935 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 241.935 146.05 0)
 			(effects
 				(font
@@ -14370,7 +16266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 137.795 45.085 0)
 			(effects
 				(font
@@ -14380,6 +16276,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 137.795 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 137.795 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 137.795 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 137.795 45.085 0)
 			(effects
 				(font
@@ -14571,7 +16494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 270.51 46.99 0)
 			(effects
 				(font
@@ -14581,6 +16504,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 270.51 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 270.51 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 270.51 46.99 0)
 			(effects
 				(font
@@ -14706,7 +16656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 178.435 81.915 0)
 			(effects
 				(font
@@ -14716,6 +16666,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 178.435 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 178.435 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 178.435 81.915 0)
 			(effects
 				(font
@@ -14841,7 +16818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 86.36 116.84 0)
 			(effects
 				(font
@@ -14851,6 +16828,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 86.36 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 86.36 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 86.36 116.84 0)
 			(effects
 				(font
@@ -14910,7 +16914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 137.795 80.01 0)
 			(effects
 				(font
@@ -14920,6 +16924,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 137.795 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 137.795 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 137.795 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 137.795 80.01 0)
 			(effects
 				(font
@@ -15044,7 +17075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 86.36 151.765 0)
 			(effects
 				(font
@@ -15054,6 +17085,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 86.36 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 86.36 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 86.36 151.765 0)
 			(effects
 				(font
@@ -15113,7 +17171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A106MA8NRNC-Samsung-Electro-Mechanics-datasheet-137745063.pdf"
 			(at 229.87 45.085 0)
 			(effects
 				(font
@@ -15123,6 +17181,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 229.87 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1869-2-ND"
+			(at 229.87 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C96446"
+			(at 229.87 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 229.87 45.085 0)
 			(effects
 				(font
@@ -15182,7 +17267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 86.36 74.295 0)
 			(effects
 				(font
@@ -15192,6 +17277,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 86.36 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 86.36 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 86.36 74.295 0)
 			(effects
 				(font
@@ -15249,7 +17361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 264.795 104.14 0)
 			(effects
 				(font
@@ -15259,6 +17371,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 264.795 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 264.795 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 264.795 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 264.795 104.14 0)
 			(effects
 				(font
@@ -15318,7 +17457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10A226MO7JZNC-Samsung-Electro-Mechanics-datasheet-141347085.pdf"
 			(at 281.94 78.105 0)
 			(effects
 				(font
@@ -15328,6 +17467,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 281.94 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-7076-2-ND"
+			(at 281.94 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C2762594"
+			(at 281.94 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 281.94 78.105 0)
 			(effects
 				(font
@@ -15452,7 +17618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0710KL-Yageo-datasheet-96443642.pdf"
 			(at 86.36 46.99 0)
 			(effects
 				(font
@@ -15462,6 +17628,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 86.36 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG1236TR-ND"
+			(at 86.36 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C95204"
+			(at 86.36 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0710KL"
 			(at 86.36 46.99 0)
 			(effects
 				(font
@@ -15520,7 +17713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tps564201"
 			(at 241.935 76.2 0)
 			(effects
 				(font
@@ -15530,6 +17723,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 241.935 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "296-47373-2-ND"
+			(at 241.935 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C464812"
+			(at 241.935 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS564201DDCR"
 			(at 241.935 76.2 0)
 			(effects
 				(font
@@ -15601,7 +17821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 270.51 109.22 0)
 			(effects
 				(font
@@ -15611,6 +17831,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 270.51 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 270.51 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 270.51 109.22 0)
 			(effects
 				(font
@@ -15670,7 +17917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/RT0603BRD0756K2L-Yageo-datasheet-96443642.pdf"
 			(at 178.435 74.295 0)
 			(effects
 				(font
@@ -15680,6 +17927,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 178.435 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "YAG4575TR-ND"
+			(at 178.435 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C705784"
+			(at 178.435 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0603BRD0756K2L"
 			(at 178.435 74.295 0)
 			(effects
 				(font
@@ -15739,7 +18013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/CL10B104KB8NNNC-Samsung-datasheet-165517828.pdf"
 			(at 255.27 142.24 0)
 			(effects
 				(font
@@ -15749,6 +18023,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "1276-1000-2-ND"
+			(at 255.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C1591"
+			(at 255.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 255.27 142.24 0)
 			(effects
 				(font
@@ -15806,7 +18107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2402201427_SHOU-HAN-CYA0630-3-3UH_C5189747.pdf"
 			(at 80.645 139.065 0)
 			(effects
 				(font
@@ -15816,6 +18117,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 80.645 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 80.645 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5189747"
+			(at 80.645 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CYA0630-3.3UH"
 			(at 80.645 139.065 0)
 			(effects
 				(font

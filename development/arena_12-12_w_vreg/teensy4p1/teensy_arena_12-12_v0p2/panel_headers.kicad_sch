@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "7548a23b-b933-4e1c-9a2e-0ea0d4c68ee1")
 	(paper "User" 711.2 190.5)
+	(title_block
+		(title "12-12 Teensy G4.1 Arena Modular LED Display")
+		(date "2024-10-08")
+		(rev "v0.2")
+		(company "IORodeo for Reiserlab @ Janelia")
+	)
 	(lib_symbols
 		(symbol "Device:R"
 			(pin_numbers hide)
@@ -5681,17 +5687,6 @@
 		)
 		(uuid "ffead308-ca7c-4802-a0ba-124734ea2bc7")
 	)
-	(text "Notes:\n\nError on P2 and P2.  PAN5V.CS_06 was repeated twice and PAN5V.CS_07 was missing. "
-		(exclude_from_sim no)
-		(at 259.715 147.32 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-			(justify left bottom)
-		)
-		(uuid "25f6857a-9d2a-4280-b628-6693e7de4dbe")
-	)
 	(text "Panel Headers"
 		(exclude_from_sim no)
 		(at 338.709 30.226 0)
@@ -5705,7 +5700,7 @@
 		)
 		(uuid "5169d8df-4049-4d5f-bcef-a9a0851a8069")
 	)
-	(text "SI2302-TP \nDigikey SI2302-TPMSCT-ND\nLCSC C4748714  \n"
+	(text "ME2306D\nLCSC C165220\n"
 		(exclude_from_sim no)
 		(at 55.245 107.061 0)
 		(effects
@@ -7185,15 +7180,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 326.136 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 326.136 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 326.136 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 326.136 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 326.136 88.265 0)
 			(effects
 				(font
@@ -7424,15 +7447,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 282.956 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 282.956 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 282.956 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 282.956 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 282.956 88.265 0)
 			(effects
 				(font
@@ -7597,7 +7648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/0805W8F2000T5E-Royal-Ohm-datasheet-165785611.pdf"
 			(at 91.821 90.424 0)
 			(effects
 				(font
@@ -7607,6 +7658,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 91.821 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 91.821 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C17540"
+			(at 91.821 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2000T5E"
 			(at 91.821 90.424 0)
 			(effects
 				(font
@@ -7666,15 +7744,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 586.74 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 586.74 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 586.74 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 586.74 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 586.74 88.265 0)
 			(effects
 				(font
@@ -7775,7 +7881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheet.octopart.com/0805W8F2002T5E-Royal-Ohm-datasheet-165785611.pdf"
 			(at 79.121 98.298 0)
 			(effects
 				(font
@@ -7785,6 +7891,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 79.121 98.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 79.121 98.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C4328"
+			(at 79.121 98.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F2002T5E"
 			(at 79.121 98.298 0)
 			(effects
 				(font
@@ -7976,15 +8109,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 499.11 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 499.11 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 499.11 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 499.11 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 499.11 88.265 0)
 			(effects
 				(font
@@ -8083,15 +8244,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 368.046 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 368.046 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 368.046 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 368.046 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 368.046 88.265 0)
 			(effects
 				(font
@@ -8256,15 +8445,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 628.65 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 628.65 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 628.65 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 628.65 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 628.65 88.265 0)
 			(effects
 				(font
@@ -8363,15 +8580,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 149.606 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 149.606 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 149.606 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 149.606 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 149.606 88.265 0)
 			(effects
 				(font
@@ -8470,15 +8715,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 454.66 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 454.66 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 454.66 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 454.66 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 454.66 88.265 0)
 			(effects
 				(font
@@ -8709,15 +8982,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 238.506 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 238.506 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 238.506 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 238.506 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 238.506 88.265 0)
 			(effects
 				(font
@@ -8816,15 +9117,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 194.056 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 194.056 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 194.056 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 194.056 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 194.056 88.265 0)
 			(effects
 				(font
@@ -8990,15 +9319,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_MATSUKI-ME2306D_C165220.pdf"
 			(at 62.611 88.138 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 62.611 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 62.611 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C165220"
+			(at 62.611 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ME2306D"
 			(at 62.611 90.424 0)
 			(effects
 				(font
@@ -9061,15 +9418,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 410.21 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 410.21 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 410.21 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 410.21 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 410.21 88.265 0)
 			(effects
 				(font
@@ -9234,15 +9619,43 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf"
 			(at 543.56 88.265 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
+			(at 543.56 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" "S7048-ND"
+			(at 543.56 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C5210739"
+			(at 543.56 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PPPC151LFBN-RC"
 			(at 543.56 88.265 0)
 			(effects
 				(font
